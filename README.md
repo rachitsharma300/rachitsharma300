@@ -39,7 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=highcontrast" alt="rachitsharma300" /></p>
 
 
-https://github.com/rachitsharma300/rachitsharma300/blob/output/github-contribution-grid-snake.gif
-
-
-![snake gif](https://github.com/rachitsharma300/rachitsharma300/blob/output/github-contribution-grid-snake.gif)
+<!--END_SECTION:data-section-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
