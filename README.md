@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Android Project**
 
-- 🌱 I’m currently learning **Android Studio, Javascript**
+- 🌱 I’m currently learning **Android Studio, Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://rachitsharma300.github.io/rachitsharma/](https://rachitsharma300.github.io/rachitsharma/)
 
