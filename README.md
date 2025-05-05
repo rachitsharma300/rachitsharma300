@@ -1,23 +1,22 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rachitsharma300.io)
 
 <h1 align="center">Hi 👋, I'm Rachit Sharma</h1>
-<h2 align="center" style="background: linear-gradient(to right,rgb(88, 30, 79),rgb(28, 40, 96)); color: white; padding: 20px;">
-  Java Full Stack Developer, from India
-</h2>
+<h2 align="center">Java Full Stack Developer, from India</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20visit%20:-&color=1f8446&style=flat-square" alt="rachitsharma300" /> </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/rachitsharma300" target="blank"><img src="https://img.shields.io/twitter/follow/rachitsharma300?logo=twitter&style=for-the-badge&color=1DA1F2" alt="rachitsharma300" /></a> 
+<a href="https://twitter.com/rachitsharma300" target="blank">
+  <img src="https://img.shields.io/twitter/follow/rachitsharma300?logo=twitter&style=for-the-badge&color=1DA1F2&label=Twitter" alt="Twitter" />
+</a> 
   <a href="https://linkedin.com/in/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="rachitsharma300" /></a> 
   <a href="https://instagram.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="rachitsharma300" /></a>
 </p>
 
 - 🔭 I’m currently working on **Java Projects**
 - 🌱 I’m currently learning **Olama, System Design**
-- 👨‍💻 All of my projects are available at [https://rachitsharma300.github.io/rachitsharma/](https://rachitsharma300.github.io/rachitsharma/)
 - 📫 How to reach me: **Rachitsharma300@gmail.com**
 - ⚡ Fun fact: **I am Funny😎**
 
@@ -70,7 +69,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" alt="rachitsharma300" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=350" alt="rachitsharma300" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg)
 
