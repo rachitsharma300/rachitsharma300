@@ -68,10 +68,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" alt="rachitsharma300" /></p>
 
-<!-- <p><img align="center" src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p> -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p>
 
+<p><img align="center" src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p> 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700) -->
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg) -->
 
