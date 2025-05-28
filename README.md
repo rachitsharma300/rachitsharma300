@@ -1,6 +1,6 @@
 ![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
 <h1 align="center">Hi 👋, I'm Rachit Sharma</h1>
-<h2 align="center">Java Full Stack Developer, from India</h2>
+<h2 align="center">Java Full Stack Developer</h2>
 
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 
