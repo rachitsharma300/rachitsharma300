@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20visit%20:-&color=1f8446&style=flat-square" alt="rachitsharma300" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20visit%20:-&color=1f8446&style=flat-square" alt="rachitsharma300" /> </p>
 
 <p align="left"> 
 <a href="https://twitter.com/rachitsharma300" target="blank">
