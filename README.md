@@ -96,10 +96,10 @@
 </p>
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=450" alt="rachitsharma300" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=500" alt="rachitsharma300" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=450" alt="rachitsharma300" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=500" alt="rachitsharma300" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p>
 
