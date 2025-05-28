@@ -95,6 +95,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=algolia&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" /></a>
 </p>
 
+<div><img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false</div>
+
 <p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=320" alt="rachitsharma300" />
 </p>
