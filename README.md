@@ -96,25 +96,46 @@
 </p>
 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" height="180px" width="350px" style="float:left;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" height="180px" width="350px" style="float:right;"/>
-</p>
+<div style="width: 100%; overflow: hidden;">
 
+  <div style="width: 50%; float: left;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" 
+      height="180px" width="350px" 
+      alt="Top Languages" />
+  </div>
 
+  <div style="width: 50%; float: right;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" 
+      height="180px" width="350px" 
+      alt="GitHub Stats" />
+  </div>
 
+</div>
 
+<div style="clear: both; text-align: center; margin-top: 20px;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" 
+    alt="Streak Stats" 
+    style="max-width: 100%; height: auto;" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p>
+<div style="text-align: center; margin-top: 20px;">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=f9826c&line=f9d423&point=fc5185&area=true&hide_border=true" 
+    width="100%" 
+    alt="Activity Graph" />
+</div>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=f9826c&line=f9d423&point=fc5185&area=true&hide_border=true" width="100%" />
-</p>
-
+<div style="text-align: center; margin-top: 20px;">
+  <img 
+    src="https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg" 
+    alt="Contribution Grid Snake Animation" />
+</div>
 
 <!--<p><img align="center" src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p> --> 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700) -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Niravprajapati1/Niravprajapati1/output/github-contribution-grid-snake-dark.svg) 
+
 
