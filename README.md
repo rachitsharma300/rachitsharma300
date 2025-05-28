@@ -15,8 +15,8 @@
 </p>
 
 - 🔥 **Currently Building:** Exciting **Java Projects** that challenge and inspire me 
-- 🌱 I’m currently learning **Olama, System Design**
-- 📫 How to reach me: **Rachitsharma300@gmail.com**
+- 🌱 **Learning & Growing:** Diving deep into **Olama** and mastering **System Design** 
+- 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
