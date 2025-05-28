@@ -96,7 +96,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=1000" alt="rachitsharma300" /></p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" height="180px" width="350px" style="float:left;"/>
