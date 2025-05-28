@@ -96,11 +96,11 @@
 </p>
 
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" alt="rachitsharma300" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" height="180px" width="350px" style="float:left;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" height="180px" width="350px" style="float:right;"/>
 </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" alt="rachitsharma300" /></p>
 
 
 
