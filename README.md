@@ -104,11 +104,10 @@
     style="width: 100%; max-width: 1000px; height: auto;" />
 </div>
 
-<!-- Below that, flex container for two images side by side -->
 <div>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" h/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" />
 </p>
 </div>
 
