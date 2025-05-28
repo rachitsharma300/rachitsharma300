@@ -14,8 +14,9 @@
   <a href="https://instagram.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="rachitsharma300" /></a>
 </p>
 
-- 🔥 **Currently Building:** Exciting **Java Projects** 
-- 🌱 **Learning & Growing:** Diving deep **Olama** & **System Design** 
+- 🔥 **Currently Building:** Exciting **Java Projects.** 
+- 🌱 **Learning & Growing:** Diving deep **Olama** & **System Design.** 
+
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
