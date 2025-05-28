@@ -106,7 +106,7 @@
 
 <div>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=50%" />
 </p>
 </div>
