@@ -36,7 +36,6 @@
   </a>
 </p>
 
-
 <p align="left">
   <!-- Frontend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -57,10 +56,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
 </a>
-
-
 </p>
-
 
 <p align="left">
   <!-- Database -->
@@ -94,11 +90,9 @@
 </a>
 </p>
 
-
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=algolia&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
-  </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=algolia&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" /></a>
 </p>
 
 <p align="left">
