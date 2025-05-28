@@ -96,15 +96,26 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=1000" alt="rachitsharma300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=500"
-    <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=500" 
-</p>
+<!-- Streak Stats full width -->
+<div style="width: 100%; text-align: center; margin-bottom: 20px;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=1000" 
+    alt="Streak Stats" 
+    style="width: 100%; max-width: 1000px; height: auto;" />
+</div>
 
-<p>
-  "/>
-</p>
-
+<!-- Below that, two half-width images side by side -->
+<div style="width: 100%; display: flex; justify-content: center; gap: 0;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=500" 
+    alt="Top Languages" 
+    style="width: 50%; max-width: 500px; height: auto;" />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=500" 
+    alt="GitHub Stats" 
+    style="width: 50%; max-width: 500px; height: auto;" />
+</div>
 
 
 
