@@ -104,17 +104,17 @@
     style="width: 100%; max-width: 1000px; height: auto;" />
 </div>
 
-<!-- Below that, two half-width images side by side -->
-<div style="width: 100%; display: flex; justify-content: center; gap: 0;">
+<!-- Below that, flex container for two images side by side -->
+<div style="width: 100%; max-width: 1000px; display: flex; justify-content: space-between; gap: 0; margin: auto;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=500" 
     alt="Top Languages" 
-    style="width: 50%; max-width: 500px; height: auto;" />
+    style="width: 49%; height: 200px; object-fit: contain;" />
   
   <img 
     src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=500" 
     alt="GitHub Stats" 
-    style="width: 50%; max-width: 500px; height: auto;" />
+    style="width: 49%; height: 200px; object-fit: contain;" />
 </div>
 
 
