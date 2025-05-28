@@ -17,7 +17,6 @@
 - 🔭 I’m currently working on **Java Projects**
 - 🌱 I’m currently learning **Olama, System Design**
 - 📫 How to reach me: **Rachitsharma300@gmail.com**
-- ⚡ Fun fact: **I am Funny😎**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
