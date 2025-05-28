@@ -105,16 +105,11 @@
 </div>
 
 <!-- Below that, flex container for two images side by side -->
-<div style="width: 100%; max-width: 1000px; display: flex; justify-content: space-between; gap: 0; margin: auto;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=500" 
-    alt="Top Languages" 
-    style="width: 49%; height: 200px; object-fit: contain;" />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=500" 
-    alt="GitHub Stats" 
-    style="width: 49%; height: 200px; object-fit: contain;" />
+<div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=350" height="180px" width="350px" style="float:left;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&hide_border=true&card_width=350" height="180px" width="350px" style="float:right;"/>
+</p>
 </div>
 
 
