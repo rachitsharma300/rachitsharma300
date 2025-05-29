@@ -86,7 +86,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=f9826c&line=f9d423&point=fc5185&area=true&hide_border=true" width="100%" />
 </p>
 
-![snake](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
+
+
+![Snake animation](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
 
 
 
