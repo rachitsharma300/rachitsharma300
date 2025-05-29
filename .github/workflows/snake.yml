@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # or 'master' if your default branch is master
+      - main
 
 jobs:
   generate:
@@ -17,7 +17,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: rachitsharma300
+          github_user_name: rachitsharma300  # <-- Use your actual GitHub username here
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
