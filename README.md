@@ -87,6 +87,8 @@
 </p>
 
 ![snake](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg?palette=radical&color_snake=%23f9826c&color_dots=%23fc5185,%23f9826c,%23f9d423,%23ffffff,transparent)
+
 
 
 
