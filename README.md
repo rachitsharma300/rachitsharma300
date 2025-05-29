@@ -107,7 +107,7 @@
 <!-- Streak Stats full width -->
 <div>
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=1000" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&layout=compact&locale=en&card_width=1000" 
     alt="Streak Stats" 
    />
 </div>
