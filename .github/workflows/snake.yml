@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # or "master"
+      - main  # or master if that's your default
 
 jobs:
   generate:
@@ -17,17 +17,22 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contribution Snake (Light & Dark)
+      # Light snake
+      - name: Generate Light Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: rachitsharma300
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-          # Set dark theme palette
+          outputs: dist/github-contribution-grid-snake.svg
+
+      # Dark snake with dark palette
+      - name: Generate Dark Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rachitsharma300
+          outputs: dist/github-contribution-grid-snake-dark.svg
           palette: github-dark
 
-      - name: Push Snake SVG to Output Branch
+      - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
