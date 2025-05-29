@@ -22,7 +22,9 @@ jobs:
         with:
           github_user_name: rachitsharma300
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+                 dist/snake-dark.svg?palette=github-dark
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
