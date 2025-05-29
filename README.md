@@ -89,6 +89,8 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
