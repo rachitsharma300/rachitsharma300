@@ -96,13 +96,7 @@
 </p>
 
 
-<!-- Streak Stats full width -->
-<div>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=1000" 
-    alt="Streak Stats" 
-   />
-</div>
+
 
 <div>
 <p>
@@ -110,11 +104,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=400" />
 </p>
 </div>
-
-
-
-
-
+<!-- Streak Stats full width -->
+<div>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=1000" 
+    alt="Streak Stats" 
+   />
+</div>
 
 
 <p align="center">
