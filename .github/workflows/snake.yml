@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: rachitsharma300
           outputs: |
-                  dist/github-contribution-grid-snake-dark.svg?palette=radical&color_snake=#f9826c&color_dots=#4e4e4e,#f9826c,#f9d423,#ffffff,transparent
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ff6ec7&color_dots=#ffb86c,#ff6ec7,#fab387,#f8f8f2,#2a2a2a
 
 
 
