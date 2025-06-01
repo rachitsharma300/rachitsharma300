@@ -89,39 +89,13 @@
 ![snake](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
 
 
-<h1 align="center">Hey there! I'm Rachit Sharma 👋</h1>
 
-<!-- 🐍 Contribution Snake Animation -->
+## 🪪 My Dev Card
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
+  <a href="https://app.daily.dev/rachitsharma300">
+    <img src="https://api.daily.dev/devcards/v2/t3MGcg9X6IjhaopMAkOe7.png?r=kmg&type=wide" width="652" alt="Rachit Sharma's Dev Card"/>
+  </a>
 </p>
-
-<!-- 👨‍💻 Dev Card -->
-<p align="center">
-  <img src="https://api.daily.dev/devcards/rachitsharma300.svg" width="400" alt="rachitsharma300's Dev Card"/>
-</p>
-
-<!-- 📈 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rachitsharma300&theme=radical" />
-</p>
-
-<!-- 💻 Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=radical" />
-</p>
-
-<!-- 📊 Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=fe3b7f&line=ffd300&point=ff9e00&area=true&hide_border=true" />
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
 <!-- 💬 Random Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
