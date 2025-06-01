@@ -3,11 +3,7 @@
 <h2 align="center">Java Full Stack Developer</h2>
 
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
-<p align="left">
-  <img src="https://img.shields.io/badge/Profile-orange?style=for-the-badge&logo=github" alt="Profile" />
-  <img src="https://img.shields.io/badge/Views-white?style=for-the-badge&color=black" alt="Visit" />
-  <img src="https://komarev.com/ghpvc/?username=rachitsharma300&style=for-the-badge&color=1f8446" />
-</p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Views&color=1f8446&style=for-the-badge" alt="Profile Views" /></p>
 
 
 <p align="left"> 
