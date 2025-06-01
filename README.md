@@ -5,6 +5,12 @@
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=1f8446&style=for-the-badge" alt="Profile Visit" /></p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile%20Visit-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Profile Visit" />
+  <img src="https://komarev.com/ghpvc/?username=rachitsharma300&color=000000&style=for-the-badge" alt="Profile Visit Count" />
+</p>
+
+
 
 <p align="left"> 
   <a href="https://twitter.com/rachitsharma300" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="rachitsharma300" /></a>
