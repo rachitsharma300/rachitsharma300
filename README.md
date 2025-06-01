@@ -10,6 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=rachitsharma300&color=000000&style=for-the-badge" alt="Profile Visit Count" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Profile-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="Profile" />
+  <img src="https://img.shields.io/badge/Visit-FFFFFF?style=for-the-badge&color=000000&logoColor=000000" alt="Visit" />
+  <img src="https://komarev.com/ghpvc/?username=rachitsharma300&color=1f8446&style=for-the-badge" alt="Profile Views Count" />
+</p>
+
+
 
 
 <p align="left"> 
