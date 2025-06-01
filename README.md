@@ -7,7 +7,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Views&color=1f8446&style=for-the-badge" alt="Profile Views" /></p>
 
 <p align="left"> 
-  <a href="https://twitter.com/rachitsharma300" target="blank"><img src="https://img.shields.io/twitter/follow/rachitsharma300?logo=twitter&style=for-the-badge&color=1DA1F2&label=Twitter" alt="Twitter" /></a> 
+  <a href="https://twitter.com/rachitsharma300" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="rachitsharma300" /></a>
   <a href="https://linkedin.com/in/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="rachitsharma300" /></a> 
   <a href="https://instagram.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="rachitsharma300" /></a>
 </p>
