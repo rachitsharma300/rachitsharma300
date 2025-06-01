@@ -90,15 +90,8 @@
 
 <!-- 💬 Random Quote -->
 <p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=dark&border=none&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it.&author=Peter%20Drucker&font=Fira%20Code&align=center&size=18&authorSize=12" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
-
-
-
-
-
-
 
 
 
