@@ -77,12 +77,9 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=algolia&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=onedark&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
   </a>
 </p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=onedark&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
-
 
 <div>
 <p>
