@@ -14,3 +14,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
+          theme: radical
