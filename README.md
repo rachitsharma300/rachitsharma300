@@ -103,20 +103,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/rachitsharma300/rachitsharma300/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-
 
 
 <!--<p><img align="center" src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p> --> 
