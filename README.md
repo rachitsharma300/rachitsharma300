@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=This+profile+is+for+fun+%F0%9F%98%8E;Testing+widgets+on+GitHub+ReadMe;Exploring+dynamic+features" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Java+Full+Stack+Developer;Learning+Spring+Boot+and+AWS;Building+projects+with+❤️" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=1f8446&style=for-the-badge" alt="Profile Visit" /></p>
 
