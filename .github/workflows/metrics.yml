@@ -15,4 +15,3 @@ jobs:
           user: rachitsharma300
           base: header, activity, community, repositories, metadata
           theme: radical
-          plugin_lines: yes
