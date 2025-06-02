@@ -1,33 +1,16 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
+  schedule: [{cron: "0 0 * * *"}]
+  push: {branches: ["main"]}
   workflow_dispatch:
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: rachitsharma300
-          template: classic
+          token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
-
-          # Plugins
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full
-
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: percentage, lines
-
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
-          plugin_stargazers: yes
+          plugin_lines: yes
