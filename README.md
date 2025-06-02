@@ -6,10 +6,6 @@
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=1f8446&style=for-the-badge" alt="Profile Visit" /></p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rachitsharma300.rachitsharma300)
-![Profile views](https://api.countapi.xyz/hit/rachitsharma300/visits)
-![Rachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical)
-
 <p align="left">
   <img src="https://profile-counter.glitch.me/rachitsharma300/count.svg" />
 </p>
