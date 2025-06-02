@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1200&color=AEFEFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Rachit+Sharma;Java+Full+Stack+Developer)](https://git.io/typing-svg)
-
 <!-- Profile photo -->
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
 
