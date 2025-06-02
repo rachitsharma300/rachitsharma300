@@ -1,8 +1,10 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  push: {branches: ["main"]}
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -12,6 +14,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata, contribs, prs, issues
           plugin_lines: yes
+          plugin_languages: yes
           theme: radical
+          colors: '{ "header_bg": "#0d1117", "accent": "#f9826c", "text": "#c9d1d9" }'
