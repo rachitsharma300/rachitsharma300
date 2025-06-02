@@ -1,22 +1,15 @@
 ![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
+<!-- Intro -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;This+repo+is+for+Java+Full+Stack+learners" alt="Typing SVG" />
-</p>
-
-<p align="center" style="line-height:1.2;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=400&color=FF0000&lines=Hi+%F0%9F%91%8B%2C" alt="Typing SVG red" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=500&color=0000FF&lines=I'm+Rachit+Sharma" alt="Typing SVG blue" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=600&color=008000&lines=Java+Full+Stack+Developer" alt="Typing SVG green" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=700&color=FFA500&lines=This+repo+is+for+Java+Full+Stack+learners" alt="Typing SVG orange" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=ff79c6&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;This+repo+is+for+Java+Full+Stack+learners" alt="Typing SVG" />
 </p>
 
 
+<!-- Profile photo -->
 <img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=1f8446&style=for-the-badge" alt="Profile Visit" /></p>
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/rachitsharma300/count.svg" />
-</p>
+<!-- Visit Count++ -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=1f8446&style=for-the-badge" alt="Profile Visit" /></p>
 
 <!-- Social Link -->
 <p align="left"> 
