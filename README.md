@@ -98,12 +98,6 @@
   <img src="https://github.com/rachitsharma300/rachitsharma300/blob/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/wedoforall/wedoforall/blob/main/github-metrics.svg" width="100%">
-</p>
-
-
-
 <!-- 💬 Random Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
