@@ -10,6 +10,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Java+Full+Stack+Developer;Learning+Spring+Boot+and+AWS;Building+projects+with+❤️" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;This+repo+is+for+Java+Full+Stack+learners" alt="Typing SVG" />
+</p>
 
 
 
