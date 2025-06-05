@@ -101,14 +101,5 @@
 </p>
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!delivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/></a>
-</p>
-"40"/></a>
-</p>
-
-
 <!--<p><img align="center" src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p> --> 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700) -->
