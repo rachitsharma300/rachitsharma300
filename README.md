@@ -139,12 +139,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
 </p>
 
-<p align="left">
-  <!-- Tools -->
-  <a href="https://cdn-icons-png.flaticon.com/512/1234/1234609.png" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1234/1234609.png" alt="System Design" width="40" height="40"/></a>
-  <a href
-
 
 <!--<p><img align="center" src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p> --> 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700) -->
