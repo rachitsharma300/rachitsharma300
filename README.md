@@ -95,12 +95,6 @@
 
 ![snake](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=onedark&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
-  </a>
-</p>
-
 <!-- 💬 Random Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
