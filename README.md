@@ -114,14 +114,7 @@
   <a href="https://junit.org/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/></a>
 </p>
-
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/></a>
-  <ans/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+"40"/></a>
 </p>
 
 
