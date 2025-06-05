@@ -143,11 +143,7 @@
   <!-- Tools -->
   <a href="https://cdn-icons-png.flaticon.com/512/1234/1234609.png" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/1234/1234609.png" alt="System Design" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-
+  <a href
 
 
 <!--<p><img align="center" src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&card_width=700" alt="rachitsharma300" /></p> --> 
