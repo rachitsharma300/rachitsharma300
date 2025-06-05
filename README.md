@@ -101,8 +101,6 @@
   </a>
 </p>
 
-![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
-
 <!-- 💬 Random Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
