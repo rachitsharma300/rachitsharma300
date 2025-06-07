@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td width="80%" valign="top">
+    <td width="50%" valign="top">
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" />
       </p>
