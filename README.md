@@ -71,7 +71,7 @@
       </table>
     </td>
     <td width="80%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma Photo" width="380" style="border:none; margin: 0; padding: 0;" />
+      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma Photo" width="390" style="border:none; margin: 0; padding: 0;" />
     </td>
   </tr>
 </table>
