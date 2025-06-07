@@ -19,10 +19,9 @@
 
 - 🔥 **Currently Building:** Exciting **Java Projects.** 
 - 🌱 **Learning & Growing:** Diving deep **System Design.** 
-
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 
-<h3 align="left">Languages & Tools  --></h3>
+<p align="left" <strong>Languages & Tools  --></strong></p>
 <p align="left">
   <!-- Backend -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
