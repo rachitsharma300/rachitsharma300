@@ -22,11 +22,7 @@
 
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 
-
-
-
-<h2 align="left">🛠️ Languages & Tools</h2>
-
+<p align="left">🛠️ Languages & Tools</p>
 <table>
   <tr>
     <td><strong>💻 Backend</strong></td>
