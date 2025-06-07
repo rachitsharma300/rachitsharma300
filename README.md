@@ -7,7 +7,7 @@
 </p>
 
 <table>
-  <tr>>
+  <tr>
     <td width="60%" valign="top">
       <p align="left">
         <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" />
@@ -71,7 +71,7 @@
       </table>
     </td>
     <td width="40%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma Photo" width="300" style="border-radius: 10px;"/>
+      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma Photo" width="380" style="border:none; margin: 0; padding: 0;" />
     </td>
   </tr>
 </table>
