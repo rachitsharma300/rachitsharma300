@@ -70,12 +70,6 @@
       </tr>
     </table>
   </div>
-
-  <!-- Image -->
-  <div>
-    <img alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
-  </div>
-
 </div>
 
 
