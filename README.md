@@ -73,7 +73,7 @@
 
   <!-- Image -->
   <div>
-    <img src="e3109245-4381-49ac-bfdf-68c985c4ab2e.png" alt="Profile Art" width="300"/>
+    <img alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
   </div>
 
 </div>
