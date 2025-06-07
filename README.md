@@ -1,36 +1,32 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif" alt="Rachit Sharma Banner"/>
-</p>
-
+![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
+<!-- Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
+<!-- Profile photo -->
+<img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
+
+<!-- Visit Count++ -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
+
+<!-- Social Link -->
+<p align="left"> 
+  <a href="https://twitter.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="rachitsharma300" /></a>
+  <a href="https://linkedin.com/in/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="rachitsharma300" /></a> 
+  <a href="https://instagram.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="rachitsharma300" /></a>
+</p>
+
+- 🔥 **Currently Building:** Exciting **Java Projects.** 
+- 🌱 **Learning & Growing:** Diving deep **Olama** & **System Design.** 
+
+- 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" />
-      </p>
-      <p align="center"> 
-        <a href="https://twitter.com/rachitsharma300" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter"/>
-        </a>
-        <a href="https://linkedin.com/in/rachitsharma300" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="LinkedIn"/>
-        </a>
-        <a href="https://instagram.com/rachitsharma300" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram"/>
-        </a>
-      </p>
-<p align="center"><strong>🔥 Currently Building 🔥</strong></p>
-<p align="center">Exciting <strong>Java Projects</strong>.</p>
-
-<p align="center"><strong>🌱 Learning & Growing 🌱</strong></p>
-<p align="center">Diving deep into <strong>Olama</strong> & <strong>System Design</strong>.</p>
-
-<p align="center"><strong>📫 Reach Me <a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></strong></p>
-      <h3>🛠️ Languages & Tools</h3>
+    <!-- LEFT: Languages & Tools section -->
+    <td valign="top" style="vertical-align: top;">
+      <h2 align="left">🛠️ Languages & Tools</h2>
       <table>
         <tr>
           <td><strong>💻 Backend</strong></td>
@@ -60,7 +56,7 @@
           </td>
         </tr>
         <tr>
-          <td><strong>🧰 Tools</strong></td>
+          <td><strong>🧰 Tools & Others</strong></td>
           <td>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" title="IntelliJ"/>
@@ -72,14 +68,8 @@
         </tr>
       </table>
     </td>
-    <td width="80%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma Photo" width="390" style="border:none; margin: 0; padding: 0;" />
-    </td>
   </tr>
 </table>
-
-
-
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
