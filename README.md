@@ -9,10 +9,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p align="left">
+      <p align="centre">
         <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" />
       </p>
-      <p align="left"> 
+      <p align="centre"> 
         <a href="https://twitter.com/rachitsharma300" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter"/>
         </a>
@@ -23,10 +23,10 @@
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram"/>
         </a>
       </p>
-<p align="center"><strong>🔥 Currently Building</strong></p>
+<p align="center"><strong>🔥 Currently Building 🔥</strong></p>
 <p align="center">Exciting <strong>Java Projects</strong>.</p>
 
-<p align="center"><strong>🌱 Learning & Growing</strong></p>
+<p align="center"><strong>🌱 Learning & Growing 🌱</strong></p>
 <p align="center">Diving deep into <strong>Olama</strong> & <strong>System Design</strong>.</p>
 
 <p align="center"><strong>📫 Reach Me <a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></strong></p>
