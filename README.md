@@ -1,32 +1,34 @@
-![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
-<!-- Intro -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif" alt="Rachit Sharma Banner"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<!-- Profile photo -->
-<img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
-
-<!-- Visit Count++ -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
-
-<!-- Social Link -->
-<p align="left"> 
-  <a href="https://twitter.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="rachitsharma300" /></a>
-  <a href="https://linkedin.com/in/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="rachitsharma300" /></a> 
-  <a href="https://instagram.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="rachitsharma300" /></a>
-</p>
-
-- 🔥 **Currently Building:** Exciting **Java Projects.** 
-- 🌱 **Learning & Growing:** Diving deep **Olama** & **System Design.** 
-
-- 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
-
 <table>
-  <tr>
-    <!-- LEFT: Languages & Tools section -->
-    <td valign="top" style="vertical-align: top;">
-      <h2 align="left">🛠️ Languages & Tools</h2>
+  <tr>>
+    <td width="60%" valign="top">
+      <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" />
+      </p>
+      <p align="left"> 
+        <a href="https://twitter.com/rachitsharma300" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter"/>
+        </a>
+        <a href="https://linkedin.com/in/rachitsharma300" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="LinkedIn"/>
+        </a>
+        <a href="https://instagram.com/rachitsharma300" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram"/>
+        </a>
+      </p>
+      <ul>
+        <li>🔥 <strong>Currently Building:</strong> Exciting <strong>Java Projects</strong>.</li>
+        <li>🌱 <strong>Learning & Growing:</strong> Diving deep <strong>Olama</strong> & <strong>System Design</strong>.</li>
+        <li>📫 <strong>Reach me:</strong> <a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></li>
+      </ul>
+      <h3>🛠️ Languages & Tools</h3>
       <table>
         <tr>
           <td><strong>💻 Backend</strong></td>
@@ -56,7 +58,7 @@
           </td>
         </tr>
         <tr>
-          <td><strong>🧰 Tools & Others</strong></td>
+          <td><strong>🧰 Tools</strong></td>
           <td>
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" title="IntelliJ"/>
@@ -68,8 +70,12 @@
         </tr>
       </table>
     </td>
+    <td width="40%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma Photo" width="300" style="border-radius: 10px;"/>
+    </td>
   </tr>
 </table>
+
 
 
 
