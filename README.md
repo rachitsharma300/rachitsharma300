@@ -69,11 +69,6 @@
         </tr>
       </table>
     </td>
-
-    <!-- Right Side: Image -->
-    <td valign="top" style="padding-left: 20px;">
-      <img src="e3109245-4381-49ac-bfdf-68c985c4ab2e.png" alt="Profile Art" width="300"/>
-    </td>
   </tr>
 </table>
 
