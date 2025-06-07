@@ -23,16 +23,14 @@
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram"/>
         </a>
       </p>
-<div style="text-align: center;">
-  <h4>🔥 Currently Building</h4>
-  <p>Exciting <strong>Java Projects</strong>.</p>
+<p align="center"><strong>🔥 Currently Building</strong></p>
+<p align="center">Exciting <strong>Java Projects</strong>.</p>
 
-  <h4>🌱 Learning & Growing</h4>
-  <p>Diving deep into <strong>Olama</strong> & <strong>System Design</strong>.</p>
+<p align="center"><strong>🌱 Learning & Growing</strong></p>
+<p align="center">Diving deep into <strong>Olama</strong> & <strong>System Design</strong>.</p>
 
-  <h4>📫 Reach Me</h4>
-  <p><a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></p>
-</div>
+<p align="center"><strong>📫 Reach Me</strong></p>
+<p align="center"><a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></p>
       <h3>🛠️ Languages & Tools</h3>
       <table>
         <tr>
