@@ -70,7 +70,7 @@
         </tr>
       </table>
     </td>
-    <td width="40%" align="center" valign="top">
+    <td width="60%" align="center" valign="top">
       <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma Photo" width="380" style="border:none; margin: 0; padding: 0;" />
     </td>
   </tr>
