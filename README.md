@@ -9,10 +9,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p align="centre">
+      <p align="center">
         <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" />
       </p>
-      <p align="centre"> 
+      <p align="center"> 
         <a href="https://twitter.com/rachitsharma300" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter"/>
         </a>
