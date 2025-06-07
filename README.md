@@ -23,14 +23,14 @@
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="Instagram"/>
         </a>
       </p>
-<h4>🔥 Currently Building</h4>
-<p>Exciting <strong>Java Projects</strong>.</p>
+<h4 lign="centre">Currently Building</h4>
+<p lign="centre">Exciting <strong>Java Projects</strong>.</p>
 
-<h4>🌱 Learning & Growing</h4>
-<p>Diving deep into <strong>Olama</strong> & <strong>System Design</strong>.</p>
+<h4 lign="centre">Learning & Growing</h4>
+<p lign="centre">Diving deep into <strong>Olama</strong> & <strong>System Design</strong>.</p>
 
-<h4>📫 Reach Me</h4>
-<p><a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></p>
+<h5 lign="centre">Reach Me</h5>
+<p lign="centre"><a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></p>
       <h3>🛠️ Languages & Tools</h3>
       <table>
         <tr>
