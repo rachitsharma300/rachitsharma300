@@ -22,7 +22,7 @@
 
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 
-<h3 align="left" style="color:#00ffff>Languages and Tools:</h3>
+<h3 align="left">Languages & Tools  --></h3>
 <p align="left">
   <!-- Backend -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
