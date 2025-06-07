@@ -18,7 +18,7 @@
 </p>
 
 - 🔥 **Currently Building:** Exciting **Java Projects.** 
-- 🌱 **Learning & Growing:** Diving deep **Olama** & **System Design.** 
+- 🌱 **Learning & Growing:** Diving deep **System Design.** 
 
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 
