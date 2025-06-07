@@ -30,7 +30,6 @@
 <p align="center">Diving deep into <strong>Olama</strong> & <strong>System Design</strong>.</p>
 
 <p align="center"><strong>📫 Reach Me <a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></strong></p>
-<p align="center"><a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a></p>
       <h3>🛠️ Languages & Tools</h3>
       <table>
         <tr>
