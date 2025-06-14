@@ -104,3 +104,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/<Rachit_Sharma_>?theme=dark&font=Karma)
+
+
