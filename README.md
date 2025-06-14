@@ -105,9 +105,9 @@
 </p>
 
 
+<!---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rachit_Sharma_?theme=radical&font=Karma)
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rachitsharma300?theme=unicorn&font=Karma)
-
+--->
 
 
