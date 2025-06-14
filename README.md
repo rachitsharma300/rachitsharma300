@@ -69,14 +69,10 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40"/></a>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a>
 </p>
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
-
-
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
