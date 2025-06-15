@@ -79,14 +79,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=onedark&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
   </a>
 </p>
-
 <div>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=400" />
   <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&layout=compact&locale=en&card_width=500" alt="Streak Stats" />
-  <img src="https://leetcard.jacoblin.cool/Rachitsharma300?theme=radical&hide_border=true&font=Karma" style="width: 200;" alt="Leetcode" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&layout=compact&locale=en&card_width=1000" alt="Streak Stats" />
+  
 </p>
 </div>
 
@@ -106,6 +105,7 @@
 
 
 <!---
+<img src="https://leetcard.jacoblin.cool/Rachitsharma300?theme=radical&hide_border=true&font=Karma" style="width: 200;" alt="Leetcode" />
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rachit_Sharma_?theme=radical&font=Karma)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rachitsharma300?theme=unicorn&font=Karma)
 --->
