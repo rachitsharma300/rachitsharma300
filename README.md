@@ -108,6 +108,8 @@
 <img src="https://leetcard.jacoblin.cool/Rachitsharma300?theme=radical&hide_border=true&font=Karma" style="width: 200;" alt="Leetcode" />
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rachit_Sharma_?theme=radical&font=Karma)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rachitsharma300?theme=unicorn&font=Karma)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/rachitsharma300?theme=radical&font=Baloo%202&ext=activity)
 --->
 
 
