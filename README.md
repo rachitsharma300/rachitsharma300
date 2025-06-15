@@ -84,6 +84,8 @@
 <p>
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/Rachitsharma300?theme=radical&font=Karma)
+  <img src="https://leetcard.jacoblin.cool/Rachitsharma300?theme=unicorn&font=Karma" style="width: 400;" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=400" />
   <!-- Streak -->
