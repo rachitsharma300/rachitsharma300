@@ -86,7 +86,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=400" />
   <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&layout=compact&locale=en&card_width=500" alt="Streak Stats" />
-  <img src="https://leetcard.jacoblin.cool/Rachitsharma300?theme=radical&font=Karma" style="width: 400;" />
+  <img src="https://leetcard.jacoblin.cool/Rachitsharma300?theme=radical&hide_border=true&font=Karma" style="width: 400;" alt="Leetcode" />
 </p>
 </div>
 
