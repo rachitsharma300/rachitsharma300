@@ -56,8 +56,8 @@
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-</p>
-
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40"/></a>
 <p align="left">
   <!-- Tools -->
   <a href="https://cdn-icons-png.flaticon.com/512/1234/1234609.png" target="_blank" rel="noreferrer">
