@@ -9,9 +9,9 @@
 
 <!-- Visit Count++ -->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
-<p align="center">
+<!-- <p align="center">
   <img width="150px" src="https://komarev.com/ghpvc/?username=your-github-rachitsharma300&style=flat-square&color=22CCB2" />
-</p>
+</p> -->
 
 
 <!-- Social Link -->
