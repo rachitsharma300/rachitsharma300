@@ -83,6 +83,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=radical&margin-w=10&margin-h=15&no-frame=true&no-bg=true" alt="rachitsharma300" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=tokyonight&no-frame=false&margin-w=10" />
+</p>
 <div>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&card_width=400"/>
