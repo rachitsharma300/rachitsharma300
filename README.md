@@ -27,9 +27,9 @@
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 -->
 <!-- About -->
-- 💻 Java Full Stack Developer crafting scalable backend systems and modern UIs  
-- ⚙️ Expertise: Spring Boot • React • JWT • SQL/MongoDB • System Design  
-- 🚀 Currently improving my projects & preparing for a professional developer role  
+- Java Full Stack Developer crafting scalable backend systems and modern UIs  
+- Expertise: Spring Boot • React • JWT • SQL/MongoDB • System Design  
+- Currently improving my projects & preparing for a professional developer role  
 
 
 
