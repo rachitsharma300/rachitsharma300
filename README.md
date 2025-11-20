@@ -44,8 +44,10 @@
   <a href="https://junit.org/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/></a>
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" alt="Mockito" width="80" height="80"/>
-</a>
+  <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" alt="Mockito" width="80" height="80"/></a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+  <img src="https://static.vecteezy.com/system/resources/previews/019/006/339/non_2x/jwt-abstract-technology-logo-design-on-black-background-jwt-creative-initials-letter-logo-concept-vector.jpg" alt="JWT" width="40" height="40"/></a>
+
 
 </p>
 
