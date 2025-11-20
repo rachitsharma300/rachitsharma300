@@ -87,6 +87,10 @@
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer">
+  <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="40" height="40"/>
+</a>
+
 </p>
 
 <p align="left">
