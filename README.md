@@ -28,7 +28,7 @@
 -->
 <!-- About -->
 <p>
-Java Full Stack Developer crafting scalable backend systems & modern UIs    
+Java Full Stack Developer crafting scalable backend systems & modern UIs <br>    
 Currently improving my projects & preparing for a professional developer role
 </p>
 
