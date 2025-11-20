@@ -26,6 +26,11 @@
 - 🌱 **Learning & Growing:** Diving deep **System Design.** 
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 -->
+<!-- Highlights -->
+- ✔️ 4 Major Projects Completed (LMS, HMS, E-commerce, Patna Metro)  
+- ✔️ Hands-on experience with Spring Boot, React, SQL & MongoDB  
+- ✔️ Strong focus on backend architecture & API development  
+
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
