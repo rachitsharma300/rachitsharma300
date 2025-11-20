@@ -44,7 +44,7 @@
   <a href="https://junit.org/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/></a>
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-original.svg" alt="Mockito" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png" alt="Mockito" width="40" height="40"/>
 </a>
 
 </p>
