@@ -46,9 +46,7 @@
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" alt="Mockito" width="80" height="80"/></a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-  <img src="https://static.vecteezy.com/system/resources/previews/019/006/339/non_2x/jwt-abstract-technology-logo-design-on-black-background-jwt-creative-initials-letter-logo-concept-vector.jpg" alt="JWT" width="40" height="40"/></a>
-
-
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/jwt-icon-138bxvrhijus263d2f2wur.png/jwt-icon-aqjx58uyj3lrxtborzgyg.png?_a=DATAg1AAZAA0" alt="JWT" width="40" height="40"/></a>
 </p>
 
 <p align="left">
