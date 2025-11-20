@@ -27,9 +27,10 @@
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 -->
 <!-- About -->
-- Java Full Stack Developer crafting scalable backend systems & modern UIs    
-- Currently improving my projects & preparing for a professional developer role
-
+<p>
+Java Full Stack Developer crafting scalable backend systems & modern UIs    
+Currently improving my projects & preparing for a professional developer role
+</p>
 
 
 
