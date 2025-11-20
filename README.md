@@ -25,11 +25,14 @@
 - 🔥 **Currently Building:** Exciting **Java Projects.** 
 - 🌱 **Learning & Growing:** Diving deep **System Design.** 
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
--->
-<!-- Highlights -->
+
 - ✔️ 4 Major Projects Completed (LMS, HMS, E-commerce, Patna Metro)  
 - ✔️ Hands-on experience with Spring Boot, React, SQL & MongoDB  
-- ✔️ Strong focus on backend architecture & API development  
+- ✔️ Strong focus on backend architecture & API development
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer" alt="Typing SVG" />
+</p>
 
 
 <h3 align="left">🛠️ Languages & Tools</h3>
