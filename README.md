@@ -28,9 +28,9 @@
 -->
 <!-- About -->
 <p>
-  💼 <strong>Java Full Stack Developer</strong> crafting scalable backend systems and modern UIs <br>
-  🧩 <strong>Expertise:</strong> Spring Boot • React • JWT • SQL/MongoDB • System Design <br>
-  🚀 Currently improving my projects & preparing for a professional developer role
+<strong>Java Full Stack Developer</strong> crafting scalable backend systems and modern UIs <br>
+<strong>Expertise:</strong> Spring Boot • React • JWT  • System Design <br>
+Currently improving my projects & preparing for a pro- developer role
 </p>
 
 
