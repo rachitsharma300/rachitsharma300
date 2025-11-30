@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - main  # or 'master' if that's your default branch
 
 jobs:
   generate:
@@ -22,7 +22,11 @@ jobs:
         with:
           github_user_name: rachitsharma300
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00e5ff&color_dots=#161b22,#4a0072,#a800b5,#ff00c3,#ffffff
+                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#fe3b7f&color_dots=#ffd300,#fe3b7f,#00d4ff,#ff9e00,#1e1e1e
+
+
+
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
