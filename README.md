@@ -1,36 +1,42 @@
-![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
+<!-- Banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif" width="100%" alt="Rachit Sharma Banner" />
+</div>
+
 <!-- Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=e65ec2&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Crafting+Scalable+Systems;Building+Modern+UIs" alt="Typing SVG" />
+</div>
 
-<!-- Profile photo -->
-<img align="right" alt="Coding" width="400" height="500" src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png">
+<!-- Social Links (Animated/Vibrant) -->
+<div align="center">
+  <a href="https://linkedin.com/in/rachitsharma300">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/rachitsharma300">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/rachitsharma300">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a>
+  <a href="mailto:Rachitsharma300@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" />
+  </a>
+</div>
 
-<!-- Visit Count++ -->
-<p align="left"><img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Visit&color=e65ec2&style=for-the-badge" alt="Profile Visit" /></p>
-<!-- <p align="center">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=your-github-rachitsharma300&style=flat-square&color=22CCB2" />
-</p> -->
+<br />
 
-
-<!-- Social Link -->
-<p align="left"> 
-  <a href="https://twitter.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=1DA1F2" alt="rachitsharma300" /></a>
-  <a href="https://linkedin.com/in/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=0077B5" alt="rachitsharma300" /></a> 
-  <a href="https://instagram.com/rachitsharma300" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&color=E4405F" alt="rachitsharma300" /></a>
-</p>
-
-<!--
-- 🔥 **Currently Building:** Exciting **Java Projects.** 
-- 🌱 **Learning & Growing:** Diving deep **System Design.** 
-- 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
--->
-<!-- About -->
+<!-- About Me & Profile Pic -->
+<div>
+  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" align="right" width="300" alt="Rachit Sharma" />
+  
+  <h2><img src="https://media.giphy.com/media/hvRJCLFzcu4hDA0ZZ3/giphy.gif" width="30"> About Me</h2>
   <p>
     I am a passionate **Java Full Stack Developer** dedicated to crafting scalable backend systems and modern, responsive user interfaces. 
     With a strong foundation in **System Design** and a commitment to continuous learning, I am currently refining my projects and preparing to contribute effectively in a professional development role.
   </p>
+<<<<<<< HEAD
+=======
 
 
 
@@ -110,33 +116,83 @@
   <!-- Streak -->
   <img src="https://github.com/rachitsharma300/rachitsharma300/raw/output/github-streak.svg" width="100%" />
 
+>>>>>>> 4eb2b2badc2556e9a3a88e8c9646363acfe1b75d
   
-</p>
+  <p>
+    🌱 **Currently Learning:** Advanced System Design & Cloud Architecture<br />
+    🔥 **Currently Building:** Enterprise-grade Java Applications<br />
+    📫 **Reach me at:** <a href="mailto:Rachitsharma300@gmail.com">Rachitsharma300@gmail.com</a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Views&color=e65ec2&style=flat-square" alt="Profile Visit" />
+  </p>
 </div>
 
-<!-- Contribution Grpah -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=f9826c&line=f9d423&point=fc5185&area=true&hide_border=true" width="100%" />
-</p>
+<br clear="all" />
 
-<!-- Custome Snake -->
+<!-- Tech Stack (Vibrant & Animated Style) -->
+<h2 align="center"><img src="https://media.giphy.com/media/iTqaC4G649HPRB11p2/giphy.gif" width="35"> Languages & Tools</h2>
+<div align="center">
+  <p><b>Backend & Core</b></p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,hibernate,junit&theme=dark" alt="Backend Skills" />
+  
+  <br /><br />
+  
+  <p><b>Frontend & UI</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,bootstrap,tailwind,materialui&theme=dark" alt="Frontend Skills" />
+  
+  <br /><br />
+  
+  <p><b>Database & Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,aws,firebase,docker,kubernetes&theme=dark" alt="Database & Cloud" />
+  
+  <br /><br />
+  
+  <p><b>Tools & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,postman,idea,vscode,jenkins&theme=dark" alt="Tools" />
+</div>
 
-![snake](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg)
+<br />
 
-<!-- Random Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<!-- GitHub Stats -->
+<h2 align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="35"> GitHub Stats</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=radical&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+  </a>
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rachitsharma300&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true&bg_color=0d1117" height="170" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&layout=compact&locale=en&bg_color=0d1117" alt="Streak" />
+</div>
 
+<br />
 
-<!---
-<img src="https://leetcard.jacoblin.cool/Rachitsharma300?theme=radical&hide_border=true&font=Karma" style="width: 200;" alt="Leetcode" />
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rachit_Sharma_?theme=radical&font=Karma)
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rachitsharma300?theme=unicorn&font=Karma)
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=f9826c&line=f9d423&point=fc5185&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
+<<<<<<< HEAD
+<!-- Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+</div>
+=======
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rachitsharma300?theme=radical&font=Baloo%202&ext=activity)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=radical&hide_border=true&layout=compact&locale=en&card_width=1000" alt="Streak Stats" />
 --->
+>>>>>>> 4eb2b2badc2556e9a3a88e8c9646363acfe1b75d
 
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</div>
 
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
