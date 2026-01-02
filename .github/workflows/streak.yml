@@ -1,0 +1,22 @@
+name: GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user: rachitsharma300
+          theme: radical
+          hide_border: true
+          output_file: github-streak.svg
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update GitHub streak"
+          add: "github-streak.svg"
