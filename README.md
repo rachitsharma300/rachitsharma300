@@ -27,9 +27,10 @@
 - 📫 **How to reach me:** via **Rachitsharma300@gmail.com**
 -->
 <!-- About -->
-
-- Java Full Stack Developer crafting scalable backend systems & modern UIs    
-- Currently improving my projects & preparing for a professional developer role
+  <p>
+    I am a passionate **Java Full Stack Developer** dedicated to crafting scalable backend systems and modern, responsive user interfaces. 
+    With a strong foundation in **System Design** and a commitment to continuous learning, I am currently refining my projects and preparing to contribute effectively in a professional development role.
+  </p>
 
 
 
