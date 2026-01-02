@@ -31,11 +31,8 @@
   <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" align="right" width="300" alt="Rachit Sharma" />
   
   <h2>>About Me</h2>
-  ###I am a passionate **Java Full Stack Developer** dedicated to crafting scalable backend systems and modern, responsive user interfaces. With a strong foundation in 
+  I am a passionate **Java Full Stack Developer** dedicated to crafting scalable backend systems and modern, responsive user interfaces. With a strong foundation in 
   **System Design** and a commitment to continuous learning, I am currently refining my projects and preparing to contribute effectively in a professional development role.
-
-
-
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
