@@ -104,6 +104,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=radical&row=1&column=6&no-frame=true&margin-w=10" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+
 <!-- </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rachitsharma300&theme=tokyonight&no-frame=false&margin-w=10" />
