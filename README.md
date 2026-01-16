@@ -244,6 +244,7 @@
 
 <!-- Streak Stats (Working) -->
 <img src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&fire=DD2727&currStreakNum=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=rachitsharma300&theme=dark&background=0a192f&border=64ffda&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0" />
 
 <!-- Stats from alternative domain -->
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&hide_border=true&count_private=true" />
