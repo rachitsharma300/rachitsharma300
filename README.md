@@ -42,84 +42,112 @@
 <!-- 💻 Tech Stack -->
 <h2 align="left">💻 Use To Code</h2>
 
-<table align="left">
-
-  <!-- Frontend -->
+### **Frontend Development**
+<table align="center">
   <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
-        <img src="https://skillicons.dev/icons?i=html" width="60"/>
-        <img src="https://skillicons.dev/icons?i=css" width="60"/>
-        <img src="https://skillicons.dev/icons?i=js" width="60"/>
-        <img src="https://skillicons.dev/icons?i=react" width="60"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="60"/>
-      </div>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
   </tr>
+</table>
 
-  <!-- Backend -->
+### **Backend Development**
+<table align="center">
   <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
-        <img src="https://skillicons.dev/icons?i=java" width="60"/>
-        <img src="https://skillicons.dev/icons?i=spring" width="60"/>
-        <img src="https://skillicons.dev/icons?i=maven" width="60"/>
-        <img src="https://skillicons.dev/icons?i=hibernate" width="60"/>
-      </div>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55" height="55" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="45" height="45" alt="Hibernate" />
+      <br>Hibernate
     </td>
   </tr>
+</table>
 
-  <!-- Database -->
+### **Databases**
+<table align="center">
   <tr>
-    <td><b>Database</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
-        <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
-        <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
-      </div>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
     </td>
   </tr>
+</table>
 
-  <!-- Security & Testing -->
+### **DevOps & Tools**
+<table align="center">
   <tr>
-    <td><b>Security & Testing</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
-        <img src="https://skillicons.dev/icons?i=spring" width="60"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="60"/>
-        <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" width="60"/>
-      </div>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+      <br>Postman
     </td>
   </tr>
-
-  <!-- DevOps & Cloud -->
-  <tr>
-    <td><b>DevOps & Cloud</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
-        <img src="https://skillicons.dev/icons?i=docker" width="60"/>
-        <img src="https://skillicons.dev/icons?i=aws" width="60"/>
-        <img src="https://skillicons.dev/icons?i=linux" width="60"/>
-      </div>
-    </td>
-  </tr>
-
-  <!-- Tools -->
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
-        <img src="https://skillicons.dev/icons?i=git" width="60"/>
-        <img src="https://skillicons.dev/icons?i=github" width="60"/>
-        <img src="https://skillicons.dev/icons?i=postman" width="60"/>
-        <img src="https://skillicons.dev/icons?i=idea" width="60"/>
-      </div>
-    </td>
-  </tr>
-
 </table>
 
 <!--  Divider -->
