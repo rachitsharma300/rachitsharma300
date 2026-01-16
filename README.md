@@ -12,7 +12,7 @@
     <!-- Left Column: About Me Text -->
     <td width="65%" valign="top">
       
-## 🚀 About Me
+##  About Me
 
 **I'm a Java Full Stack Developer** passionate about building scalable backend systems, secure REST APIs, and modern web applications.
 
@@ -174,7 +174,7 @@
 </h3>
 
 <!-- 🚀 Pinned Projects -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center">
   
@@ -182,7 +182,7 @@
   <tr>
     <!-- Patna Metro -->
     <td align="center" width="33%">
-      <h3>🏙️ Patna Metro</h3>
+      <h3>Patna Metro</h3>
       <a href="https://github.com/rachitsharma300/Patna-Metro" target="_blank">
         <img src="https://github.com/user-attachments/assets/484a8deb-5ae4-4b27-b830-98b3cfdf92c9" 
              width="100%" 
@@ -200,7 +200,7 @@
     </td>
     <!-- Learning Management System -->
     <td align="center" width="33%">
-      <h3>📚 Learning Management System</h3>
+      <h3> LMS</h3>
       <a href="https://github.com/rachitsharma300/LMS" target="_blank">
         <img src="https://github.com/user-attachments/assets/d7f30794-3875-429e-8f4e-0b8e1b1766fb" 
              width="100%" 
@@ -218,7 +218,7 @@
     </td>
     <!-- Hotel Booking System -->
     <td align="center" width="33%">
-      <h3>🏨 Hotel Booking System</h3>
+      <h3> Hotel Booking System</h3>
       <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">
         <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" 
              width="100%" 
@@ -240,7 +240,7 @@
   <tr>
     <!-- Dynamic Online Shopping -->
     <td align="center" width="33%">
-      <h3>🛒 Dynamic Online Shopping</h3>
+      <h3>Dynamic Online Shopping</h3>
       <a href="https://github.com/rachitsharma300/DOS" target="_blank">
         <img src="https://github.com/user-attachments/assets/306cd1f3-1d37-4c57-880b-ca371a58c871" 
              width="100%" 
@@ -258,7 +258,7 @@
     </td>
     <!-- ByteBuzz Chat App -->
     <td align="center" colspan="2" width="66%">
-      <h3>💬 ByteBuzz Chat App</h3>
+      <h3>ByteBuzz Chat App</h3>
       <a href="https://github.com/rachitsharma300/bytebuzz-chat-app" target="_blank">
         <img src="https://github.com/user-attachments/assets/6cc5d01d-4892-445d-a77c-592d0016bba8" 
              width="100%" 
