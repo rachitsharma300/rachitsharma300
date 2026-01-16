@@ -231,6 +231,11 @@
   </tr>
 </table>
 
+<!-- Divider -->
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
@@ -241,11 +246,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=58a6ff&line=58a6ff&area=true&hide_border=true" />
 </p>
-
-<!--  Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <!--  Divider -->
 <h3 align="center">
