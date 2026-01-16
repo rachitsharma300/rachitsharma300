@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h2>⚡ Tech Stack</h2>
+<h2> Use To Code</h2>
 
 <h3 align="center">Backend Development</h3>
 <table align="center">
@@ -60,8 +60,6 @@
       <img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="Hibernate" />
       <br>Hibernate
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=webpack" width="40" height="40" alt="WebFlux" />
       <br>WebFlux
@@ -100,8 +98,6 @@
       <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" />
       <br>CSS3
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br>Tailwind
@@ -158,8 +154,6 @@
       <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
       <br>Linux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
       <br>Git
@@ -174,7 +168,6 @@
     </td>
   </tr>
 </table>
-
 <!--  Divider -->
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
