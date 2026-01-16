@@ -248,14 +248,13 @@
 
 <div align="center">
 
-<!-- Streak Stats (Working) -->
 
-<!-- Stats from alternative domain -->
-
-<!-- GitHub Stats with Portfolio Theme -->
+<!-- GitHub Stats  -->
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
-
+<!-- Top Lang -->
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=2077" />
+
 
 
 <!-- Activity Graph -->
