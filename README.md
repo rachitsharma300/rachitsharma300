@@ -39,9 +39,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-## ⚡ Tech Stack
+<h2>⚡ Tech Stack</h2>
 
-### **Frontend Development**
+
+<h3 align=""center>Frontend Development</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
