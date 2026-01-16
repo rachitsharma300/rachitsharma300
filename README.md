@@ -6,10 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
-<!-- About Me Section - Compact with Larger Image -->
+<!-- About Me Section -->
 <table>
   <tr>
-    <!-- Left Column: About Me Text -->
+    <!-- Left Col About Me -->
     <td width="65%" valign="top">
       
 ##  About Me
@@ -24,7 +24,7 @@
 
     </td>
     
-    <!-- Right Column: Profile Image (Maximized) -->
+    <!-- Right Col  Profile Image -->
     <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" 
            alt="Rachit Sharma"
@@ -38,8 +38,6 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-<hr style="height:1px;border:none;background:linear-gradient(90deg, #0a192f, #64ffda, #0a192f);">
-
 
 <h2> Use To Code</h2>
 
@@ -175,8 +173,8 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- 🚀 Pinned Projects -->
-## 🚀 Featured Projects
+<!-- Pinned Projects -->
+##  Featured Projects
 
 <table align="center">
   <tr>
@@ -206,7 +204,7 @@
       <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System">
         <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" width="120" height="80" style="border-radius:6px"/>
       </a>
-      <p><small>Hotel Booking System</small></p>
+      <p><small>Hotel  Booking  System</small></p>
       <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System">Repo</a> •
       <a href="https://stay-ease-hms.netlify.app/">🌐 Live</a>
     </td>
@@ -252,36 +250,21 @@
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
+<!-- GitHub Stats with Portfolio Theme -->
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=8" />
+
+<!-- Streak Stats with Portfolio Theme -->
+<img src="https://streak-stats.demolab.com?user=rachitsharma300&theme=dark&background=0a192f&border=64ffda&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0" />
+
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=radical&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=58a6ff&line=58a6ff&area=true&hide_border=true" />
-</p>
-
-<!--  Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- Contribution Snake -->
-## Contribution Activity
-
-<img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg" />
-
-<!--  Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <!-- 🔗 Social Links -->
 ## 🔗 Let’s Connect
