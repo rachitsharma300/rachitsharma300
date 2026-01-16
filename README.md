@@ -107,8 +107,9 @@
       <br>Bootstrap
     </td>
     <td align="center" width="80">
-      <img src="https://images.icon-icons.com/3915/PNG/512/thymeleaf_logo_icon_249398.png" width="40" height="40" alt="Thymeleaf" />
+      <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="40" height="40" alt="Thymeleaf" />
       <br>Thymeleaf
+      
     </td>
   </tr>
 </table>
