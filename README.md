@@ -6,25 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
-<!-- Profile Views & Social Links -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Views&color=blue&style=flat-square"/>
-  &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/rachitsharma300" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/rachitsharma300" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://x.com/rachitsharma300" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  
-</p>
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
 <!-- About Me Section - Compact with Larger Image -->
 <table>
   <tr>
@@ -142,7 +123,6 @@
 </table>
 
 <!--  Divider -->
-
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
@@ -154,7 +134,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0d1117&color=58a6ff&line=58a6ff&area=true&hide_border=true" />
 </p>
@@ -200,7 +179,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <b>💻 Built with ❤️ by Rachit Sharma | Java Full Stack Developer</b>
-</div>
