@@ -256,28 +256,16 @@
 <p align="center">
   <img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" />
 </p>
-
-
-
 <!-- GitHub Stats  -->
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
 <!-- Top Lang -->
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=8" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" />
-
-
-
-
 <!-- Activity Graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" />-->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=080808&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 
 
-
-
-
-<!-- 🔗 Social Links -->
-## 🔗 Let’s Connect
 
 <p align="center">
 <a href="https://linkedin.com/in/rachitsharma300">
