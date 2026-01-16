@@ -42,7 +42,7 @@
 <h2>⚡ Tech Stack</h2>
 
 
-<h3 align=""center>Frontend Development</h3>
+<h3 align="center">Frontend Development</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
