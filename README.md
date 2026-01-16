@@ -61,7 +61,7 @@
 <!-- 💻 Tech Stack -->
 <h2 align="left">💻 Use To Code</h2>
 
-<table align="center">
+<table align="left">
 
   <!-- Frontend -->
   <tr>
