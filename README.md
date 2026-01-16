@@ -253,16 +253,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rachitsharma300)](https://git.io/streak-stats)
-<img src="https://camo.githubusercontent.com/.../streak-stats.demolab.com/?user=rachitsharma300&cache_seconds=86400" />
-
-<img src="https://streak-stats.demolab.com/?user=rachitsharma300" />
-<!-- Option 1: Simple version -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rachitsharma300" />
-
-<!-- Option 2: With theme -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=dark" />
+<p align="center">
+  <img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" />
+</p>
 
 
 
