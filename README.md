@@ -53,7 +53,7 @@ I'm a **Java Full Stack Developer** passionate about building
 <!-- 💻 Tech Stack -->
 <!-- =============================== -->
 
-<h2 align="center">💻 Use To Code</h2>
+<h2 align="left">💻 Use To Code</h2>
 
 <table align="center">
 
