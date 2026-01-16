@@ -178,48 +178,59 @@
 
 <table align="center">
   <tr>
+    <!-- Patna Metro -->
     <td align="center" width="20%">
       <h4>Patna Metro</h4>
       <a href="https://github.com/rachitsharma300/Patna-Metro">
         <img src="https://github.com/user-attachments/assets/484a8deb-5ae4-4b27-b830-98b3cfdf92c9" width="120" height="80" style="border-radius:6px"/>
-      </a><br>
-      <a href="https://github.com/rachitsharma300/Patna-Metro">📁 Repo</a> • 
+      </a>
+      <p><small>Metro mapping system</small></p>
+      <a href="https://github.com/rachitsharma300/Patna-Metro">Repo</a> • 
       <a href="https://www.patnametromap.in">🌐 Live</a>
     </td>
+    <!-- Learning Management System -->
     <td align="center" width="20%">
       <h4>LMS</h4>
       <a href="https://github.com/rachitsharma300/LMS">
         <img src="https://github.com/user-attachments/assets/d7f30794-3875-429e-8f4e-0b8e1b1766fb" width="120" height="80" style="border-radius:6px"/>
-      </a><br>
-      <a href="https://github.com/rachitsharma300/LMS">📁 Repo</a> • 
+      </a>
+      <p><small>Learning Mang. System</small></p>
+      <a href="https://github.com/rachitsharma300/LMS">Repo</a> • 
       <a href="https://www.patnametromap.in">🌐 Live</a>
     </td>
+    <!-- StayEase Hotel Booking -->
     <td align="center" width="20%">
       <h4>StayEase</h4>
-      <a href="https://github.com/rachitsharma300/StayEase">
+      <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System">
         <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" width="120" height="80" style="border-radius:6px"/>
-      </a><br>
-      <a href="https://github.com/rachitsharma300/StayEase">📁 Repo</a> • 
+      </a>
+      <p><small>Hotel Booking System</small></p>
+      <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System">Repo</a> •
       <a href="https://stay-ease-hms.netlify.app/">🌐 Live</a>
     </td>
+    <!-- Dynamic Online Shopping -->
     <td align="center" width="20%">
-      <h4>Dynamic Online System</h4>
+      <h4>DOS</h4>
       <a href="https://github.com/rachitsharma300/DOS">
         <img src="https://github.com/user-attachments/assets/306cd1f3-1d37-4c57-880b-ca371a58c871" width="120" height="80" style="border-radius:6px"/>
-      </a><br>
-      <a href="https://github.com/rachitsharma300/DOS">📁 Repo</a> • 
+      </a>
+      <p><small>Dynamic Online Shopping</small></p>
+      <a href="https://github.com/rachitsharma300/DOS">Repo</a> •
       <a href="https://dynamic-online-shopping.netlify.app/">🌐 Live</a>
     </td>
+    <!-- ByteBuzz Chat App -->
     <td align="center" width="20%">
       <h4>ByteBuzz</h4>
       <a href="https://github.com/rachitsharma300/bytebuzz-chat-app">
         <img src="https://github.com/user-attachments/assets/6cc5d01d-4892-445d-a77c-592d0016bba8" width="120" height="80" style="border-radius:6px"/>
-      </a><br>
-      <a href="https://github.com/rachitsharma300/bytebuzz-chat-app">📁 Repo</a> • 
+      </a>
+      <p><small>Real-time Chat Application</small></p>
+      <a href="https://github.com/rachitsharma300/bytebuzz-chat-app"> Repo</a> •
       <a href="https://byte-buzz-chat-app.netlify.app/">🌐 Live</a>
     </td>
   </tr>
 </table>
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
