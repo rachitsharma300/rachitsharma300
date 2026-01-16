@@ -40,7 +40,7 @@
 </h3>
 
 <!-- 💻 Tech Stack -->
-<h2 align="left">💻 Use To Code</h2>
+## Use To Code
 
 ### **Frontend Development**
 <table align="center">
