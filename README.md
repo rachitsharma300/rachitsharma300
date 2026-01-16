@@ -6,6 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
+<p align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=2077" />
+</p>
+
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=rachitsharma300&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+</p>
+
 <!-- About Me Section -->
 <table>
   <tr>
@@ -243,20 +252,14 @@
 <div align="center">
 
 <!-- Streak Stats (Working) -->
-<img src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&fire=DD2727&currStreakNum=FFFFFF" />
-<img src="https://streak-stats.demolab.com?user=rachitsharma300&theme=dark&background=0a192f&border=64ffda&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0" />
 
 <!-- Stats from alternative domain -->
-<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 <!-- GitHub Stats with Portfolio Theme -->
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
 
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=8" />
 
-<!-- Streak Stats with Portfolio Theme -->
-<img src="https://streak-stats.demolab.com?user=rachitsharma300&theme=dark&background=0a192f&border=64ffda&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=ccd6f6&dates=8892b0" />
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" />
