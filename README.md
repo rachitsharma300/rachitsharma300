@@ -237,6 +237,24 @@
 </h3>
 
 <!-- GitHub Stats -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Streak Stats (Working) -->
+<img src="https://streak-stats.demolab.com/?user=rachitsharma300&theme=radical&hide_border=true&fire=DD2727&currStreakNum=FFFFFF" />
+
+<!-- Stats from alternative domain -->
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
