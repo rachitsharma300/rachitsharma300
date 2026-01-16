@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
-<!-- Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
 <!-- Profile Views & Social Links -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=Profile%20Views&color=blue&style=flat-square"/>
@@ -30,12 +25,12 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- About Me Section with Side-by-Side Layout -->
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 10px; margin: 30px 0;">
-
-<!-- Left Side: About Me Content -->
-<div align="left" style="flex: 1;">
-
+<!-- About Me Section - Compact Side-by-Side -->
+<table>
+  <tr>
+    <!-- Left Column: About Me Text -->
+    <td width="70%" valign="top">
+      
 ## 🚀 About Me
 
 **I'm a Java Full Stack Developer** passionate about building scalable backend systems, secure REST APIs, and modern web applications.
@@ -46,14 +41,18 @@
 - 🛠️ **Approach:** Backend-first mindset with solid frontend skills
 - ⚡ **Fun fact:** I debug more than I sleep 😄
 
-</div>
-
-<!-- Right Side: Profile Image -->
-<div align="right" style="flex: 0 0 auto;">
-  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" alt="Rachit Sharma" width="180" height="200" style="border-radius: 10px; border: 2px solid #2D3748;" />
-</div>
-
-</div>
+    </td>
+    
+    <!-- Right Column: Profile Image -->
+    <td width="30%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" 
+           alt="Rachit Sharma" 
+           width="180" 
+           height="200"
+           style="border-radius: 8px; border: 1px solid #374151;"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Divider -->
 <h3 align="center">
