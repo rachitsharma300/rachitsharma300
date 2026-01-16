@@ -8,11 +8,8 @@
 
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=2077" />
-</p>
-
 <p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=rachitsharma300&data=followers,repositories,stars,commits&theme=radical&title_color=000000">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=rachitsharma300&data=followers,repositories,stars,commits&theme=radical" width="80%" height="150">
 </p>
 
 <!-- About Me Section -->
