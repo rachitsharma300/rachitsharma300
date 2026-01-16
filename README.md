@@ -29,17 +29,23 @@
 - 😄 **Fun fact:** I debug more than I sleep ❤️
 
     </td>
-    
-    <!-- Right Col  Profile Image -->
-    <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" 
-           alt="Rachit Sharma"
-           width="220"
-           height="240"
-           style="border-radius: 8px; border: 1px solid #374151;"/>
+      
+    <td width="35%" align="center" valign="middle">
+      <!-- Animated Skills GIF -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Skills_Animation_Dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Skills_Animation_White.gif">
+        <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Skills_Animation_White.gif" 
+             alt="Skills Animation"
+             width="220"
+             height="220"
+             style="border-radius: 10px; border: 2px solid #64ffda;"/>
+      </picture>
     </td>
   </tr>
 </table>
+
+
 <!-- Divider -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -248,6 +254,17 @@
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rachitsharma300)](https://git.io/streak-stats)
+<img src="https://camo.githubusercontent.com/.../streak-stats.demolab.com/?user=rachitsharma300&cache_seconds=86400" />
+
+<img src="https://streak-stats.demolab.com/?user=rachitsharma300" />
+<!-- Option 1: Simple version -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rachitsharma300" />
+
+<!-- Option 2: With theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rachitsharma300&theme=dark" />
+
+
 
 <!-- GitHub Stats  -->
 <img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
@@ -259,9 +276,9 @@
 
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" />-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=080808&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
 
-</div>
 
 
 
