@@ -39,9 +39,36 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h2>⚡ Tech Stack</h2>
-
-
+<h2>⚡ Use To Code</h2>
+<h3 align="center">Backend Development</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55" height="55" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Maven" />
+      <br>Maven
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=hibernate" width="45" height="45" alt="Hibernate" />
+      <br>Hibernate
+    </td>
+  </tr>
+</table>
 <h3 align="center">Frontend Development</h3>
 <table align="center">
   <tr>
@@ -72,37 +99,7 @@
   </tr>
 </table>
 
-### **Backend Development**
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55" height="55" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=maven" width="45" height="45" alt="Maven" />
-      <br>Maven
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=hibernate" width="45" height="45" alt="Hibernate" />
-      <br>Hibernate
-    </td>
-  </tr>
-</table>
-
-### **Databases**
+<h3 align="center">Databases</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -120,7 +117,7 @@
   </tr>
 </table>
 
-### **DevOps & Tools**
+<h3 align="center">DevOps & Tools</h3>
 <table align="center">
   <tr>
     <td align="center" width="90">
