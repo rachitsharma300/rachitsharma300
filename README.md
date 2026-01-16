@@ -174,110 +174,52 @@
 </h3>
 
 <!-- 🚀 Pinned Projects -->
-## Featured Projects
+## 🚀 Featured Projects
 
 <table align="center">
-  
-  <!-- Row 1 -->
   <tr>
-    <!-- Patna Metro -->
-    <td align="center" width="33%">
-      <h3>Patna Metro</h3>
-      <a href="https://github.com/rachitsharma300/Patna-Metro" target="_blank">
-        <img src="https://github.com/user-attachments/assets/484a8deb-5ae4-4b27-b830-98b3cfdf92c9" 
-             width="100%" 
-             style="border-radius: 8px; border: 1px solid #374151;"/>
-      </a>
-      <p>
-        <a href="https://github.com/rachitsharma300/Patna-Metro" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://www.patnametromap.in" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><small>Metro route mapping system</small></p>
+    <td align="center" width="20%">
+      <h4>🏙️ Patna Metro</h4>
+      <a href="https://github.com/rachitsharma300/Patna-Metro">
+        <img src="https://github.com/user-attachments/assets/484a8deb-5ae4-4b27-b830-98b3cfdf92c9" width="120" height="80" style="border-radius:6px"/>
+      </a><br>
+      <a href="https://github.com/rachitsharma300/Patna-Metro">📁 Repo</a> • 
+      <a href="https://www.patnametromap.in">🌐 Live</a>
     </td>
-    <!-- Learning Management System -->
-    <td align="center" width="33%">
-      <h3> LMS</h3>
-      <a href="https://github.com/rachitsharma300/LMS" target="_blank">
-        <img src="https://github.com/user-attachments/assets/d7f30794-3875-429e-8f4e-0b8e1b1766fb" 
-             width="100%" 
-             style="border-radius: 8px; border: 1px solid #374151;"/>
-      </a>
-      <p>
-        <a href="https://github.com/rachitsharma300/LMS" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://www.patnametromap.in" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><small>Online education platform</small></p>
+    <td align="center" width="20%">
+      <h4>📚 LMS</h4>
+      <a href="https://github.com/rachitsharma300/LMS">
+        <img src="https://github.com/user-attachments/assets/d7f30794-3875-429e-8f4e-0b8e1b1766fb" width="120" height="80" style="border-radius:6px"/>
+      </a><br>
+      <a href="https://github.com/rachitsharma300/LMS">📁 Repo</a> • 
+      <a href="https://www.patnametromap.in">🌐 Live</a>
     </td>
-    <!-- Hotel Booking System -->
-    <td align="center" width="33%">
-      <h3> Hotel Booking System</h3>
-      <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">
-        <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" 
-             width="100%" 
-             style="border-radius: 8px; border: 1px solid #374151;"/>
-      </a>
-      <p>
-        <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://stay-ease-hms.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><small>Hotel management & booking</small></p>
+    <td align="center" width="20%">
+      <h4>🏨 StayEase</h4>
+      <a href="https://github.com/rachitsharma300/StayEase">
+        <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" width="120" height="80" style="border-radius:6px"/>
+      </a><br>
+      <a href="https://github.com/rachitsharma300/StayEase">📁 Repo</a> • 
+      <a href="https://stay-ease-hms.netlify.app/">🌐 Live</a>
+    </td>
+    <td align="center" width="20%">
+      <h4>🛒 DOS</h4>
+      <a href="https://github.com/rachitsharma300/DOS">
+        <img src="https://github.com/user-attachments/assets/306cd1f3-1d37-4c57-880b-ca371a58c871" width="120" height="80" style="border-radius:6px"/>
+      </a><br>
+      <a href="https://github.com/rachitsharma300/DOS">📁 Repo</a> • 
+      <a href="https://dynamic-online-shopping.netlify.app/">🌐 Live</a>
+    </td>
+    <td align="center" width="20%">
+      <h4>💬 ByteBuzz</h4>
+      <a href="https://github.com/rachitsharma300/bytebuzz-chat-app">
+        <img src="https://github.com/user-attachments/assets/6cc5d01d-4892-445d-a77c-592d0016bba8" width="120" height="80" style="border-radius:6px"/>
+      </a><br>
+      <a href="https://github.com/rachitsharma300/bytebuzz-chat-app">📁 Repo</a> • 
+      <a href="https://byte-buzz-chat-app.netlify.app/">🌐 Live</a>
     </td>
   </tr>
-  
-  <!-- Row 2 -->
-  <tr>
-    <!-- Dynamic Online Shopping -->
-    <td align="center" width="33%">
-      <h3>Dynamic Online Shopping</h3>
-      <a href="https://github.com/rachitsharma300/DOS" target="_blank">
-        <img src="https://github.com/user-attachments/assets/306cd1f3-1d37-4c57-880b-ca371a58c871" 
-             width="100%" 
-             style="border-radius: 8px; border: 1px solid #374151;"/>
-      </a>
-      <p>
-        <a href="https://github.com/rachitsharma300/DOS" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://dynamic-online-shopping.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><small>E-commerce platform</small></p>
-    </td>
-    <!-- ByteBuzz Chat App -->
-    <td align="center" colspan="2" width="66%">
-      <h3>ByteBuzz Chat App</h3>
-      <a href="https://github.com/rachitsharma300/bytebuzz-chat-app" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6cc5d01d-4892-445d-a77c-592d0016bba8" 
-             width="100%" 
-             style="border-radius: 8px; border: 1px solid #374151;"/>
-      </a>
-      <p>
-        <a href="https://github.com/rachitsharma300/bytebuzz-chat-app" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://byte-buzz-chat-app.netlify.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><small>Real-time chat application</small></p>
-    </td>
-  </tr>
-  
 </table>
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
