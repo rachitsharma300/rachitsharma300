@@ -31,6 +31,87 @@
 - Java Full Stack Developer crafting scalable backend systems & modern UIs    
 - Currently improving my projects & preparing for a professional developer role
 
+<h2 align="center">💻 Use To Code</h2>
+
+<table align="center">
+
+  <!-- Frontend -->
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
+        <img src="https://skillicons.dev/icons?i=html" width="60"/>
+        <img src="https://skillicons.dev/icons?i=css" width="60"/>
+        <img src="https://skillicons.dev/icons?i=js" width="60"/>
+        <img src="https://skillicons.dev/icons?i=react" width="60"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="60"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Backend -->
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
+        <img src="https://skillicons.dev/icons?i=java" width="60"/>
+        <img src="https://skillicons.dev/icons?i=spring" width="60"/>
+        <img src="https://skillicons.dev/icons?i=maven" width="60"/>
+        <img src="https://skillicons.dev/icons?i=hibernate" width="60"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Database -->
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
+        <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="60"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Security & Testing -->
+  <tr>
+    <td><b>Security & Testing</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
+        <img src="https://skillicons.dev/icons?i=spring" width="60"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="60"/>
+        <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" width="60"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- DevOps & Cloud -->
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
+        <img src="https://skillicons.dev/icons?i=docker" width="60"/>
+        <img src="https://skillicons.dev/icons?i=aws" width="60"/>
+        <img src="https://skillicons.dev/icons?i=linux" width="60"/>
+      </div>
+    </td>
+  </tr>
+
+  <!-- Tools -->
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <div style="display:flex; flex-wrap: wrap; justify-content: center; gap: 18px; max-width: 260px;">
+        <img src="https://skillicons.dev/icons?i=git" width="60"/>
+        <img src="https://skillicons.dev/icons?i=github" width="60"/>
+        <img src="https://skillicons.dev/icons?i=postman" width="60"/>
+        <img src="https://skillicons.dev/icons?i=idea" width="60"/>
+      </div>
+    </td>
+  </tr>
+
+</table>
 
 
 <h3 align="left">🛠️ Languages & Tools</h3>
