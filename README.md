@@ -25,35 +25,34 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- About Me Section - Compact Side-by-Side -->
+<!-- About Me Section - Compact with Larger Image -->
 <table>
   <tr>
     <!-- Left Column: About Me Text -->
-    <td width="70%" valign="top">
+    <td width="65%" valign="top">
       
 ## 🚀 About Me
 
 **I'm a Java Full Stack Developer** passionate about building scalable backend systems, secure REST APIs, and modern web applications.
 
-- 🔭 **Currently:** Building **real-world Java Full Stack projects**
-- 🌱 **Learning:** **System Design**, **Spring Security**, and **AWS**
-- 🧠 **Focus:** **Clean architecture & backend logic**
-- 🛠️ **Approach:** Backend-first mindset with solid frontend skills
-- ⚡ **Fun fact:** I debug more than I sleep 😄
+- 🔥 **Currently:** Building **real-world Java Full Stack projects**  
+- 🎓 **Learning:** **System Design**, **Spring Security**, and **AWS**  
+- 💡 **Focus:** **Clean architecture & backend logic**  
+- ✍️ **Approach:** Backend-first mindset with solid frontend skills  
+- 😄 **Fun fact:** I debug more than I sleep ❤️
 
     </td>
     
-    <!-- Right Column: Profile Image -->
-    <td width="30%" valign="middle" align="center">
+    <!-- Right Column: Profile Image (Maximized) -->
+    <td width="35%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" 
-           alt="Rachit Sharma" 
-           width="200" 
-           height="220"
+           alt="Rachit Sharma"
+           width="220"
+           height="240"
            style="border-radius: 8px; border: 1px solid #374151;"/>
     </td>
   </tr>
 </table>
-
 <!-- Divider -->
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
