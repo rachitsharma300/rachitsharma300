@@ -47,8 +47,8 @@
     <td width="30%" valign="middle" align="center">
       <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachit.png" 
            alt="Rachit Sharma" 
-           width="180" 
-           height="200"
+           width="200" 
+           height="220"
            style="border-radius: 8px; border: 1px solid #374151;"/>
     </td>
   </tr>
