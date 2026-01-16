@@ -38,6 +38,8 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+<hr style="height:1px;border:none;background:linear-gradient(90deg, #0a192f, #64ffda, #0a192f);">
+
 
 <h2> Use To Code</h2>
 
