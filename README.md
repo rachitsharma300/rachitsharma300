@@ -39,8 +39,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- 💻 Tech Stack -->
-## Use To Code
+## ⚡ Tech Stack
 
 ### **Frontend Development**
 <table align="center">
