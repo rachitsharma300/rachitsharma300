@@ -62,7 +62,7 @@
 <table align="center">
   <tr>
     <td align="center" width="80">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="5-" height="50" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
       <br>Java
     </td>
     <td align="center" width="80">
