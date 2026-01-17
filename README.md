@@ -313,6 +313,10 @@
   <img src="https://readme-jokes.vercel.app/api?bgColor=%230a192f&textColor=%23ccd6f6&aColor=%2364ffda&borderColor=%2364ffda" width="60%" />
 </div>
 
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
   <p align="center">
   <i>🚀 Open to opportunities | 💻 Passionate about backend systems</i><br>
   <i>📫 Reach me at: Rachitsharma300@gmail.com</i>
