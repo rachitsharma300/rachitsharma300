@@ -86,6 +86,30 @@
       <br>JWT
     </td>
     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=restapi" width="40" height="40" alt="REST" />
+      <br>REST API
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit" />
+      <br>JUnit
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" width="40" height="40" alt="Mockito" />
+      <br>Mockito
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="80">
+      <img src="https://simpleicons.org/icons/openapiinitiative.svg" width="40" height="40" alt="OpenAPI" />
+      <br>OpenAPI
+    </td>
+    <td align="center" width="80">
+      <img src="https://simpleicons.org/icons/monolithic.svg" width="40" height="40" alt="Monolithic" />
+      <br>Monolithic
+    </td>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Security" />
       <br>Security
     </td>
