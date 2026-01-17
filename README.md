@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" />
-      <br>Spring Boot
+      <br>Spring
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=maven" width="40" height="40" alt="Maven" />
