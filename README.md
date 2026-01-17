@@ -277,7 +277,7 @@
 ## 📊 GitHub Stats
 
 <!-- Stats Cards Side-by-Side -->
-<div>
+<div align="center">
   <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
   <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=7" />
 </div>
