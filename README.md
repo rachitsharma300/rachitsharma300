@@ -6,12 +6,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
 
-<p align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=rachitsharma300&data=followers,repositories,stars,commits&theme=radical" width="80%" height="150">
+<div align="center">
+<!-- material theme -->
+<img src="https://github-widgetbox.vercel.app/api/profile?username=rachitsharma300&data=followers,repositories,stars,commits&theme=material" width="80%" height="150">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=%20Visit&color=3B82F6&style=flat-square" alt="Visit" />
+  <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=flat-square" />
+  <img src="https://img.shields.io/badge/🐦-Twitter-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/🌐-Portfolio-0a192f?style=flat-square" />
 </p>
-
+</div>
 <!-- About Me Section -->
 <table>
   <tr>
@@ -253,31 +258,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<!-- GitHub Stats  -->  
-<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
-<!-- Top Lang -->
-<img height="165" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=8" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" />
-  <p align="center">
-  <img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" />
-</p>
-<!-- Activity Graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=080808&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-<div align="center"> 
-  <i>Random Dev Joke for You! 🎭</i><br><br>
-  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%230a192f&textColor=%23ccd6f6&aColor=%2364ffda&borderColor=%2364ffda" alt="README Jokes">
+
+<!-- Stats Cards Side-by-Side -->
+<div>
+  <img height="200" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
+  <img height="200" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=7" />
 </div>
-<img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg" />
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake.svg)
+<!-- Trophies -->
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="90%" />
 
-<p align="center">
-<a href="https://linkedin.com/in/rachitsharma300">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<!-- Profile Details -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="90%" />
 
-</p>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&hide_border=true" width="90%" />
 
----
+<!-- Snake & Joke -->
+<div>
+  <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake.svg" width="45%" />
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%230a192f&textColor=%23ccd6f6&aColor=%2364ffda&borderColor=%2364ffda" width="45%" />
+</div>
+
+</div>
