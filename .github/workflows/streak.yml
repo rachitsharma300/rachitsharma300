@@ -1,22 +1,31 @@
-name: GitHub Streak
-
+name: Update GitHub Streak Stats
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Daily at midnight
+  workflow_dispatch:      # Manual trigger
 
 jobs:
-  streak:
+  update-streak:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
     steps:
-      - uses: actions/checkout@v3
-      - uses: DenverCoder1/github-readme-streak-stats@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: rachitsharma300
-          theme: radical
+          github_user_name: rachitsharma300
+          theme: dark
           hide_border: true
-          output_file: github-streak.svg
-      - uses: EndBug/add-and-commit@v9
+          output_type: svg
+          
+      - name: Upload SVG to repository
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          message: "Update GitHub streak"
-          add: "github-streak.svg"
+          commit_message: "📊 Update GitHub streak stats"
+          file_pattern: '*.svg'
+          commit_user_name: 'GitHub Action'
+          commit_user_email: 'action@github.com'
