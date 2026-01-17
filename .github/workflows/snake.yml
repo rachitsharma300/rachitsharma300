@@ -22,9 +22,8 @@ jobs:
         with:
           github_user_name: rachitsharma300
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#64ffda&color_dots=#64ffda,#ccd6f6,#8892b0,#0a192f
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#64ffda&color_dots=#64ffda,#ccd6f6,#8892b0,#0a192f
-
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#64ffda&color_dots=#64ffda,#ccd6f6,#8892b0
+            dist/github-contribution-grid-snake-animated.svg?palette=github-dark&color_snake=#64ffda&color_dots=#64ffda,#ccd6f6,#8892b0&animate=true
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
