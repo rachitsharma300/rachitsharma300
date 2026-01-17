@@ -264,7 +264,11 @@
 <!-- Activity Graph -->
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&theme=github-compact&hide_border=true&area=true" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=080808&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-
+<div align="center"> 
+  <i>Random Dev Joke for You! 🎭</i><br><br>
+  <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%230a192f&textColor=%23ccd6f6&aColor=%2364ffda&borderColor=%2364ffda" alt="README Jokes">
+</div>
+<img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake-dark.svg" />
 
 
 <p align="center">
