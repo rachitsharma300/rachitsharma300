@@ -254,10 +254,7 @@
 </h3>
 
 <!-- GitHub Stats -->
-
 ## 📊 GitHub Stats
-
-<div align="center">
 
 <!-- Stats Cards Side-by-Side -->
 <div>
@@ -278,6 +275,4 @@
 <div>
   <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake.svg" width="45%" />
   <img src="https://readme-jokes.vercel.app/api?bgColor=%230a192f&textColor=%23ccd6f6&aColor=%2364ffda&borderColor=%2364ffda" width="45%" />
-</div>
-
 </div>
