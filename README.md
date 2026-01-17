@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h2> Use To Code</h2>
+<h2>Highlighted Projects</h2>
 
 <h3 align="center">Backend Development</h3>
 <table align="center">
@@ -86,28 +86,16 @@
       <br>JWT
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=restapi" width="40" height="40" alt="REST" />
-      <br>REST API
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="REST" />
+      <br>REST
     </td>
     <td align="center" width="80">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" height="40" alt="JUnit" />
       <br>JUnit
     </td>
     <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/mockito/mockito/main/config/javadoc/resources/org/mockito/logo.png" width="40" height="40" alt="Mockito" />
+      <img src="https://images.squarespace-cdn.com/content/v1/66799ac2cded5e4cf25ded4b/5268d33f-8114-45c3-a761-72b4c07bd67e/mockito1.png" width="40" height="40" alt="Mockito" />
       <br>Mockito
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="80">
-      <img src="https://simpleicons.org/icons/openapiinitiative.svg" width="40" height="40" alt="OpenAPI" />
-      <br>OpenAPI
-    </td>
-    <td align="center" width="80">
-      <img src="https://simpleicons.org/icons/monolithic.svg" width="40" height="40" alt="Monolithic" />
-      <br>Monolithic
     </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Security" />
@@ -207,6 +195,14 @@
       <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" />
       <br>Postman
     </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+      <br>Code
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=idea" width="40" height="40" alt="IntelliJ" />
+      <br>IntelliJ
+    </td>
   </tr>
 </table>
 <!--  Divider -->
@@ -298,7 +294,7 @@
 </h3>
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## Developer Activity Overview
 
 <!-- Stats Cards Side-by-Side -->
 <div align="center">
@@ -309,17 +305,11 @@
   <!-- Trophies -->
 <img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
 
-<!-- Profile Details -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="93%" />
-  <img src="https://img.shields.io/badge/🔥_Current_Streak-260_days-64ffda?style=flat-square&logo=fire&logoColor=white" />
-  <img src="https://img.shields.io/badge/⭐_Longest_Streak-250+_days-ccd6f6?style=flat-square&logo=star&logoColor=ffd700" />
-  <img src="https://img.shields.io/badge/📅_Total_Commits-3k+-0a192f?style=flat-square&logo=github&logoColor=white" />
-
-
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&hide_border=true" width="93%" />
-
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="93%" />
+<!-- Snake -->
   <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake.svg" width="93%" />
+  <!-- Joke -->
   <img src="https://readme-jokes.vercel.app/api?bgColor=%230a192f&textColor=%23ccd6f6&aColor=%2364ffda&borderColor=%2364ffda" width="60%" />
 </div>
 
@@ -327,3 +317,4 @@
   <i>🚀 Open to opportunities | 💻 Passionate about backend systems</i><br>
   <i>📫 Reach me at: Rachitsharma300@gmail.com</i>
 </p>
+
