@@ -263,13 +263,13 @@
 </div>
 
 <!-- Trophies -->
-<img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="90%" />
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
 
 <!-- Profile Details -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="90%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="93%" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&hide_border=true" width="93%" />
 
 <!-- Snake & Joke -->
 <div>
