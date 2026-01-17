@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *"  # Every 12 hours
   workflow_dispatch:
   push:
     branches:
-      - main  # or 'master' if that's your default branch
+      - main
 
 jobs:
   generate:
@@ -17,21 +17,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Dark Snake SVG
+      - name: Generate Portfolio Theme Snake
         uses: Platane/snk@v3
         with:
           github_user_name: rachitsharma300
           outputs: |
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#fe3b7f&color_dots=#ffd300,#fe3b7f,#00d4ff,#ff9e00,#1e1e1e
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=#64ffda&color_dots=#64ffda,#ccd6f6,#8892b0,#0a192f
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#64ffda&color_dots=#64ffda,#ccd6f6,#8892b0,#0a192f
 
-
-
-
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          cname: github.com
