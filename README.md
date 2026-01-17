@@ -282,17 +282,17 @@
   <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=7" />
 </div>
 
-<!-- Trophies -->
-<img align="center" src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
-
-<!-- Profile Details -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="93%" />
-
-<!-- Activity Graph -->
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&hide_border=true" width="93%" />
-
 <!-- Snake & Joke -->
 <div align="center">
+  <!-- Trophies -->
+<img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
+
+<!-- Profile Details -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="93%" />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitsharma300&bg_color=0a192f&color=64ffda&line=64ffda&point=ccd6f6&area=true&hide_border=true" width="93%" />
+
   <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake.svg" width="93%" />
   <img src="https://readme-jokes.vercel.app/api?bgColor=%230a192f&textColor=%23ccd6f6&aColor=%2364ffda&borderColor=%2364ffda" width="80%" />
 </div>
