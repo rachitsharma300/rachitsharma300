@@ -1,8 +1,8 @@
 name: Update GitHub Streak Stats
 on:
   schedule:
-    - cron: "0 0 * * *"  # Daily at midnight
-  workflow_dispatch:      # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-streak:
@@ -15,17 +15,14 @@ jobs:
         uses: actions/checkout@v4
         
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@main
+        uses: DenverCoder1/github-readme-streak-stats@v3.0.0
         with:
           github_user_name: rachitsharma300
           theme: dark
           hide_border: true
-          output_type: svg
           
-      - name: Upload SVG to repository
+      - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📊 Update GitHub streak stats"
+          commit_message: "📊 Update streak stats"
           file_pattern: '*.svg'
-          commit_user_name: 'GitHub Action'
-          commit_user_email: 'action@github.com'
