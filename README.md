@@ -298,7 +298,7 @@
 <div align="center">
   <img
     src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rachitsharma300&theme=%7B%22backgroundColor%22%3A%22%230a192f%22%2C%22textColor%22%3A%22%2364ffda%22%2C%22accentColor%22%3A%22%23ff6b6b%22%2C%22borderColor%22%3A%22%2364ffda%22%2C%22waterColor%22%3A%22%2364ffda%22%2C%22streakColor%22%3A%22%23ff6b6b%22%2C%22ringColor%22%3A%22%23ff6b6b%22%7D&card_width=520"
-    width="520"
+    width="500"
     alt="Streak Card"
     style="display:inline-block; vertical-align:top; margin-right:10px;"
   />
