@@ -1,6 +1,9 @@
 <!-- Banner -->
 ![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
 
+
+
+
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
@@ -301,10 +304,12 @@
     width="520"
     alt="Streak Card"
     style="display:inline-block; vertical-align:top; margin-right:10px;"/>
-      <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachitsharma300&theme=github_dark&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda"
+    <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachitsharma300&theme=github_dark&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=ff6b6b&border_color=64ffda&border_radius=10"
     width="250"
-    alt="Repos per Language"/>
+    alt="Top Repositories"
+    style="display:inline-block; vertical-align:top;"
+  />
 </div>
 
 <!-- Trophies -->
