@@ -296,22 +296,23 @@
 <!-- Streak Card -->
 ## Developer Activity Overview
 <div align="center">
-  <!-- Streak Card -->
+  <!-- Streak Card (Big) -->
   <img
-    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rachitsharma300&theme=%7B%22backgroundColor%22%3A%22%230a192f%22%2C%22textColor%22%3A%22%2364ffda%22%2C%22accentColor%22%3A%22%23ff6b6b%22%2C%22borderColor%22%3A%22%2364ffda%22%2C%22waterColor%22%3A%22%2364ffda%22%2C%22streakColor%22%3A%22%23ff6b6b%22%2C%22ringColor%22%3A%22%23ff6b6b%22%7D&card_width=480"
-    width="480"
+    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rachitsharma300&theme=%7B%22backgroundColor%22%3A%22%230a192f%22%2C%22textColor%22%3A%22%2364ffda%22%2C%22accentColor%22%3A%22%23ff6b6b%22%2C%22borderColor%22%3A%22%2364ffda%22%2C%22waterColor%22%3A%22%2364ffda%22%2C%22streakColor%22%3A%22%23ff6b6b%22%2C%22ringColor%22%3A%22%23ff6b6b%22%7D&card_width=500"
+    width="500"
     alt="Streak Card"
     style="display:inline-block; vertical-align:top; margin-right:10px;"
   />
   
-  <!-- Stats Card -->
+  <!-- Stats Card (Small) -->
   <img
-    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true&hide=contribs&custom_title=Rachit%27s%20GitHub%20Stats&hide_rank=true"
-    width="320"
+    src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true&hide=contribs,prs,issues&hide_rank=true&layout=compact"
+    width="280"
     alt="GitHub Stats"
     style="display:inline-block; vertical-align:top;"
   />
 </div>
+
 <!-- Trophies -->
    <div align="center">
    <img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
