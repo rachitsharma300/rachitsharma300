@@ -295,7 +295,6 @@
 
 <!-- Streak Card -->
 ## Developer Activity Overview
-<div align="center"> 
    <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rachitsharma300&theme=%7B%22backgroundColor%22%3A%22%230a192f%22%2C%22textColor%22%3A%22%23ccd6f6%22%2C%22accentColor%22%3A%22%2364ffda%22%2C%22borderColor%22%3A%22%230a192f%22%2C%22waterColor%22%3A%22%2364ffda%22%2C%22streakColor%22%3A%22%2364ffda%22%7D"
       width="500"
       />
@@ -303,8 +302,7 @@
     height="160"
     width="500" 
     />
-</div>
-
+  
 <!-- Trophies -->
    <div align="center">
    <img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
