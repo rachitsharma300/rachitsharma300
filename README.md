@@ -300,7 +300,7 @@
       width="500"
       />
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true"
-    height="100"
+    height="160"
     width="500" 
     />
 </div>
