@@ -1,9 +1,6 @@
 <!-- Banner -->
 ![Rachit Sharma Banner](https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/main/Rachitsharma300.gif)
 
-
-
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
