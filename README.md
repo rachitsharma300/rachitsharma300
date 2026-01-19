@@ -301,9 +301,10 @@
     width="520"
     alt="Streak Card"
     style="display:inline-block; vertical-align:top; margin-right:10px;"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachitsharma300&theme=github_dark&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda"
-
-  
+      <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachitsharma300&theme=github_dark&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6&icon_color=64ffda"
+    width="250"
+    alt="Repos per Language"/>
 </div>
 
 <!-- Trophies -->
