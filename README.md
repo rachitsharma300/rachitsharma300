@@ -56,7 +56,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<h2>Highlighted Projects</h2>
+<h2>My Tech Arsenal</h2>
 
 <h3 align="center">Backend Development</h3>
 <table align="center">
@@ -211,7 +211,7 @@
 </h3>
 
 <!-- Pinned Projects -->
-##  Featured Projects
+##  Highlighted Projects
 
 <table align="center">
   <tr>
