@@ -293,20 +293,24 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
-<!-- GitHub Stats -->
+<!-- Streak Card -->
 ## Developer Activity Overview
-
-<!-- Stats Cards Side-by-Side -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rachitsharma300&layout=compact&theme=dark&title_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&langs_count=7" />
+<div align="center"> 
+   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rachitsharma300&theme=%7B%22backgroundColor%22%3A%22%230a192f%22%2C%22textColor%22%3A%22%2364ffda%22%2C%22accentColor%22%3A%22%23ff6b6b%22%2C%22borderColor%22%3A%22%2364ffda%22%2C%22waterColor%22%3A%22%2364ffda%22%2C%22streakColor%22%3A%22%23ff6b6b%22%2C%22ringColor%22%3A%22%23ff6b6b%22%7D"
+      width="500"
+      />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rachitsharma300&show_icons=true&theme=dark&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&bg_color=0a192f&hide_border=true&count_private=true"
+    height="200"
+    width="500" /> 
 </div>
-<div align="center">
-  <!-- Trophies -->
-<img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
+
+<!-- Trophies -->
+   <div align="center">
+   <img src="https://hacked-github-stat-trophies.vercel.app/?username=rachitsharma300&theme=dracula&column=7&row=1&titles=Stars,Commit,PR,Issues,Repositories,Follower&margin-w=5&bg_color=0a192f&title_color=64ffda&text_color=ccd6f6" width="93%" />
 
 <!-- Activity Graph -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="93%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rachitsharma300&theme=holi" width="93%" />
+
 <!-- Snake -->
   <img src="https://raw.githubusercontent.com/rachitsharma300/rachitsharma300/output/github-contribution-grid-snake.svg" width="93%" />
   <!-- Joke -->
@@ -321,4 +325,3 @@
   <i>🚀 Open to opportunities | 💻 Passionate about backend systems</i><br>
   <i>📫 Reach me at: Rachitsharma300@gmail.com</i>
 </p>
-
