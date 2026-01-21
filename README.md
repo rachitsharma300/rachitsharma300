@@ -9,7 +9,6 @@
 
 <div align="center">
 <!-- material theme -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=rachitsharma300&data=followers,repositories,stars,commits&theme=material" width="80%" height="150">
 <p>
   <img src="https://komarev.com/ghpvc/?username=rachitsharma300&label=%20Visit&color=3B82F6&style=flat-square" alt="Visit" />
   <img src="https://img.shields.io/badge/💼-LinkedIn-0077B5?style=flat-square" />
@@ -295,9 +294,10 @@
 
 <!-- Streak Card -->
 ## Developer Activity Overview
-<div align="center">
-  <img
-    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rachitsharma300&theme=%7B%22backgroundColor%22%3A%22%230a192f%22%2C%22textColor%22%3A%22%2364ffda%22%2C%22accentColor%22%3A%22%23ff6b6b%22%2C%22borderColor%22%3A%22%2364ffda%22%2C%22waterColor%22%3A%22%2364ffda%22%2C%22streakColor%22%3A%22%23ff6b6b%22%2C%22ringColor%22%3A%22%23ff6b6b%22%7D&card_width=520"
+<div align="center">  
+<img src="https://github-widgetbox.vercel.app/api/profile?username=rachitsharma300&data=followers,repositories,stars,commits&theme=material" width="80%" height="150">
+
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=rachitsharma300&theme=%7B%22backgroundColor%22%3A%22%230a192f%22%2C%22textColor%22%3A%22%2364ffda%22%2C%22accentColor%22%3A%22%23ff6b6b%22%2C%22borderColor%22%3A%22%2364ffda%22%2C%22waterColor%22%3A%22%2364ffda%22%2C%22streakColor%22%3A%22%23ff6b6b%22%2C%22ringColor%22%3A%22%23ff6b6b%22%7D&card_width=520"
     width="520"
     alt="Streak Card"
     style="display:inline-block; vertical-align:top; margin-right:10px;"/>
