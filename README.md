@@ -3,9 +3,13 @@
 
 <!-- Typing Animation -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=750&color=64ffda&size=26&lines=👋🏻+Hello+World!+I'm+Rachit+Sharma;💻+Java+Full+Stack+Developer;⚡+Crafting+Scalable+Backend+Systems;🏗️+Spring+Boot+|+React+|+AWS" alt="Typing SVG" />
+</p>
+<!--
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&width=650&color=aefeff&lines=Hi+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Java+Full+Stack+Developer;Building+Scalable+Backend+Systems" alt="Typing SVG" />
 </p>
-
+-->
 
 <div align="center">
 <!-- material theme -->
