@@ -312,13 +312,16 @@
     width="520"
     alt="Streak Card"
     style="display:inline-block; vertical-align:top; margin-right:10px;"/>
+  <!--
     <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rachitsharma300&theme=algolia"
     width="250"
     alt="Top Repositories"
     style="display:inline-block; vertical-align:top;"
   />
+  -->
 </div>
+
 
 <!-- Trophies -->
    <div align="center">
