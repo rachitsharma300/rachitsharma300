@@ -39,10 +39,10 @@
 **I'm a Java Full Stack Developer** passionate about building scalable backend systems, secure REST APIs, and modern web applications.
 
 - 🔥 **Currently:** Building **real-world Java Full Stack projects**  
-- 🎓 **Learning:** **System Design**, **Spring Security**, and **AWS**  
+- 🎓 **Learning:** **Spring AI**, **Spring Security**, and **AWS**  
 - 💡 **Focus:** **Clean architecture & backend logic**  
 - ✍️ **Approach:** Backend-first mindset with solid frontend skills  
-- 😄 **Fun fact:** I debug more than I sleep ❤️
+- 😄 **Fun fact:** I debug more than I sleep
 
     </td>
       
