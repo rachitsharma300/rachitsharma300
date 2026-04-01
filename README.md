@@ -241,7 +241,7 @@
         <a href="https://www.patnametromap.in" target="_blank">🌐 Live</a>
       </p>
     </td>
-```
+    
 <!-- LMS -->
 <td align="center" width="20%">
   <h4>LMS</h4>
@@ -301,13 +301,9 @@
     <a href="https://byte-buzz-chat-app.netlify.app/" target="_blank">🌐 Live</a>
   </p>
 </td>
-```
-
   </tr>
 </table>
-
 ---
-
 ## CodeKata Progress
 
 **Solved:** 250 / 1000+
