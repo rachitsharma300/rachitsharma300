@@ -222,6 +222,7 @@
 </h3>
 
 <!-- Pinned Projects -->
+
 ##  Highlighted Projects
 
 <table align="center">
@@ -240,70 +241,79 @@
         <a href="https://www.patnametromap.in" target="_blank">🌐 Live</a>
       </p>
     </td>
-    <!-- Learning Management System -->
-    <td align="center" width="20%">
-      <h4>LMS</h4>
-      <a href="https://github.com/rachitsharma300/LMS" target="_blank">
-        <img src="https://github.com/user-attachments/assets/d7f30794-3875-429e-8f4e-0b8e1b1766fb" 
-             width="120" height="80" 
-             style="border-radius:6px; border:1px solid #64ffda"/>
-      </a>
-      <p><small><b>Learning Management System</b></small></p>
-      <p>
-        <a href="https://github.com/rachitsharma300/LMS" target="_blank">Repo</a> • 
-        <a href="https://learnprofessional.netlify.app/" target="_blank">🌐 Live</a>
-      </p>
-    </td>
-    <!-- StayEase Hotel Booking -->
-    <td align="center" width="20%">
-      <h4>StayEase</h4>
-      <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">
-        <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" 
-             width="120" height="80" 
-             style="border-radius:6px; border:1px solid #64ffda"/>
-      </a>
-      <p><small><b>Hotel Booking System with Secure Payments</b></small></p>
-      <p>
-        <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">Repo</a> •
-        <a href="https://stay-ease-hms.netlify.app/" target="_blank">🌐 Live</a>
-      </p>
-    </td>
-    <!-- Dynamic Online Shopping -->
-    <td align="center" width="20%">
-      <h4>DOS</h4>
-      <a href="https://github.com/rachitsharma300/DOS" target="_blank">
-        <img src="https://github.com/user-attachments/assets/306cd1f3-1d37-4c57-880b-ca371a58c871" 
-             width="120" height="80" 
-             style="border-radius:6px; border:1px solid #64ffda"/>
-      </a>
-      <p><small><b>Dynamic Online Shopping</b></small></p>
-      <p>
-        <a href="https://github.com/rachitsharma300/DOS" target="_blank">Repo</a> •
-        <a href="https://dynamic-online-shopping.netlify.app/" target="_blank">🌐 Live</a>
-      </p>
-    </td>
-    <!-- ByteBuzz Chat App -->
-    <td align="center" width="20%">
-      <h4>ByteBuzz</h4>
-      <a href="https://github.com/rachitsharma300/bytebuzz-chat-app" target="_blank">
-        <img src="https://github.com/user-attachments/assets/6cc5d01d-4892-445d-a77c-592d0016bba8" 
-             width="120" height="80" 
-             style="border-radius:6px; border:1px solid #64ffda"/>
-      </a>
-      <p><small><b>Real-time Chat Application</b></small></p>
-      <p>
-        <a href="https://github.com/rachitsharma300/bytebuzz-chat-app" target="_blank">Repo</a> •
-        <a href="https://byte-buzz-chat-app.netlify.app/" target="_blank">🌐 Live</a>
-      </p>
-    </td>
-  </tr>
+```
+<!-- LMS -->
+<td align="center" width="20%">
+  <h4>LMS</h4>
+  <a href="https://github.com/rachitsharma300/LMS" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d7f30794-3875-429e-8f4e-0b8e1b1766fb" 
+         width="120" height="80" 
+         style="border-radius:6px; border:1px solid #64ffda"/>
+  </a>
+  <p><small><b>Learning Management System</b></small></p>
+  <p>
+    <a href="https://github.com/rachitsharma300/LMS" target="_blank">Repo</a> • 
+    <a href="https://learnprofessional.netlify.app/" target="_blank">🌐 Live</a>
+  </p>
+</td>
 
-  ## 📊 CodeKata Progress
+<!-- StayEase -->
+<td align="center" width="20%">
+  <h4>StayEase</h4>
+  <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">
+    <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" 
+         width="120" height="80" 
+         style="border-radius:6px; border:1px solid #64ffda"/>
+  </a>
+  <p><small><b>Hotel Booking System with Secure Payments</b></small></p>
+  <p>
+    <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">Repo</a> •
+    <a href="https://stay-ease-hms.netlify.app/" target="_blank">🌐 Live</a>
+  </p>
+</td>
+
+<!-- DOS -->
+<td align="center" width="20%">
+  <h4>DOS</h4>
+  <a href="https://github.com/rachitsharma300/DOS" target="_blank">
+    <img src="https://github.com/user-attachments/assets/306cd1f3-1d37-4c57-880b-ca371a58c871" 
+         width="120" height="80" 
+         style="border-radius:6px; border:1px solid #64ffda"/>
+  </a>
+  <p><small><b>Dynamic Online Shopping</b></small></p>
+  <p>
+    <a href="https://github.com/rachitsharma300/DOS" target="_blank">Repo</a> •
+    <a href="https://dynamic-online-shopping.netlify.app/" target="_blank">🌐 Live</a>
+  </p>
+</td>
+
+<!-- ByteBuzz -->
+<td align="center" width="20%">
+  <h4>ByteBuzz</h4>
+  <a href="https://github.com/rachitsharma300/bytebuzz-chat-app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6cc5d01d-4892-445d-a77c-592d0016bba8" 
+         width="120" height="80" 
+         style="border-radius:6px; border:1px solid #64ffda"/>
+  </a>
+  <p><small><b>Real-time Chat Application</b></small></p>
+  <p>
+    <a href="https://github.com/rachitsharma300/bytebuzz-chat-app" target="_blank">Repo</a> •
+    <a href="https://byte-buzz-chat-app.netlify.app/" target="_blank">🌐 Live</a>
+  </p>
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+## CodeKata Progress
 
 **Solved:** 250 / 1000+
 **Progress:** █████░░░░░░░░░░░░░░ 25%
 
-### 📈 Difficulty Breakdown
+###  Difficulty Breakdown
 
 **Easy**   : ██████████████░░░░░░ 70%
 **Medium** : ████████░░░░░░░░░░░░ 40%
@@ -314,8 +324,6 @@
 💡 Practiced via **GUVI CodeKata**
 💻 Language: **Java**
 🧠 Focus: **DSA | Problem Solving | Logic Building**
-
-</table>
 
 <!-- Divider -->
 <h3 align="center">
