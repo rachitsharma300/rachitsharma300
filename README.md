@@ -297,6 +297,24 @@
       </p>
     </td>
   </tr>
+
+  ## 📊 CodeKata Progress
+
+**Solved:** 250 / 1000+
+**Progress:** █████░░░░░░░░░░░░░░ 25%
+
+### 📈 Difficulty Breakdown
+
+**Easy**   : ██████████████░░░░░░ 70%
+**Medium** : ████████░░░░░░░░░░░░ 40%
+**Hard**   : ██░░░░░░░░░░░░░░░░░░ 10%
+
+---
+
+💡 Practiced via **GUVI CodeKata**
+💻 Language: **Java**
+🧠 Focus: **DSA | Problem Solving | Logic Building**
+
 </table>
 
 <!-- Divider -->
