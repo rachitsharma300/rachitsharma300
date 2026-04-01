@@ -303,9 +303,10 @@
 </td>
   </tr>
 </table>
----
-## CodeKata Progress
 
+---
+
+## CodeKata Progress
 **Solved:** 250 / 1000+
 **Progress:** █████░░░░░░░░░░░░░░ 25%
 
