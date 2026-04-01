@@ -251,7 +251,7 @@
       <p><small><b>Learning Management System</b></small></p>
       <p>
         <a href="https://github.com/rachitsharma300/LMS" target="_blank">Repo</a> • 
-        <a href="https://www.patnametromap.in" target="_blank">🌐 Live</a>
+        <a href="https://learnprofessional.netlify.app/" target="_blank">🌐 Live</a>
       </p>
     </td>
     <!-- StayEase Hotel Booking -->
