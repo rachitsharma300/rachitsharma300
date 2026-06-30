@@ -260,7 +260,7 @@
 <!-- StayEase -->
 <td align="center" width="20%">
   <h4>StayEase</h4>
-  <a href="https://github.com/rachitsharma300/StayEase-Hotel-Booking-System" target="_blank">
+  <a href="https://github.com/rachitsharma300/StayEase" target="_blank">
     <img src="https://github.com/user-attachments/assets/93fbf419-7d20-4e25-a561-9055953d01a8" 
          width="120" height="80" 
          style="border-radius:6px; border:1px solid #64ffda"/>
